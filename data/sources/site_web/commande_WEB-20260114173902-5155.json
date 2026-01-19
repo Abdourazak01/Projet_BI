@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114173902-5155",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:02.632421",
+  "client": {
+    "nom": "Michel Bailly",
+    "email": "zdupont@example.org",
+    "telephone": "+33 (0)6 10 36 99 44"
+  },
+  "adresse_livraison": {
+    "rue": "22, rue Delorme",
+    "ville": "Picardnec",
+    "code_postal": "22345",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 1,
+      "prix_unitaire": 80.0,
+      "prix_total": 80.0
+    }
+  ],
+  "montant_total": 80.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

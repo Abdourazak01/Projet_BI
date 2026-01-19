@@ -1,0 +1,35 @@
+{
+  "id_commande": "BOU-20260116195422-4580",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:54:22.441423",
+  "client": {
+    "nom": "Laetitia Aubert",
+    "email": "wdupuy@example.org",
+    "telephone": "+33 6 78 27 67 86"
+  },
+  "boutique": "Khouribga Mall",
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 3,
+      "prix_unitaire": 1100.0,
+      "prix_total": 3300.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    }
+  ],
+  "montant_total": 4560.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V602"
+}

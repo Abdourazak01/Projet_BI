@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114172111-2546",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:11.168545",
+  "client": {
+    "nom": "Alexandre de la Hebert",
+    "email": "ysimon@example.com",
+    "telephone": "+33 3 52 30 44 27"
+  },
+  "adresse_livraison": {
+    "rue": "boulevard Joseph Pages",
+    "ville": "Lebreton-la-Forêt",
+    "code_postal": "42120",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 1,
+      "prix_unitaire": 25.0,
+      "prix_total": 25.0
+    }
+  ],
+  "montant_total": 25.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

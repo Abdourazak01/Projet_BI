@@ -1,0 +1,39 @@
+{
+  "id_commande": "MOB-20260114174029-3950",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T17:40:29.915764",
+  "client": {
+    "nom": "Juliette Bruneau",
+    "email": "llaunay@example.net",
+    "telephone": "+33 5 90 88 30 47",
+    "compte_client": "C19977"
+  },
+  "appareil": {
+    "type": "iPad",
+    "version_app": "3.0.9",
+    "os_version": "10.2"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Marrakech Gueliz",
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 1,
+      "prix_unitaire": 450.0,
+      "prix_total": 450.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 2,
+      "prix_unitaire": 450.0,
+      "prix_total": 900.0
+    }
+  ],
+  "montant_total": 1350.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": true,
+  "promo_code": null
+}

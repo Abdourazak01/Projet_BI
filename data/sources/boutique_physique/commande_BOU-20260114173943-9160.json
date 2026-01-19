@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260114173943-9160",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T17:39:43.562628",
+  "client": {
+    "nom": "Amélie Moreno",
+    "email": null,
+    "telephone": "+33 (0)2 45 48 81 67"
+  },
+  "boutique": "Khouribga Mall",
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 2,
+      "prix_unitaire": 15.0,
+      "prix_total": 30.0
+    }
+  ],
+  "montant_total": 30.0,
+  "statut": "annulée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V590"
+}

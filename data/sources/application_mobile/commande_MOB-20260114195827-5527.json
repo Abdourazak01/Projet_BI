@@ -1,0 +1,38 @@
+{
+  "id_commande": "MOB-20260114195827-5527",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T19:58:27.763336",
+  "client": {
+    "nom": "Michèle Chevallier",
+    "email": "sabine88@example.com",
+    "telephone": "+33 (0)5 35 62 76 30",
+    "compte_client": "C13289"
+  },
+  "appareil": {
+    "type": "Tablette Android",
+    "version_app": "3.2.1",
+    "os_version": "11.8"
+  },
+  "adresse_livraison": {
+    "rue": "914, boulevard Guilbert",
+    "ville": "FabreBourg",
+    "code_postal": "54913",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    }
+  ],
+  "montant_total": 650.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "standard",
+  "frais_livraison": 9.99,
+  "notification_push": true,
+  "promo_code": null
+}

@@ -1,0 +1,38 @@
+{
+  "id_commande": "MOB-20260115112018-6154",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:20:18.483301",
+  "client": {
+    "nom": "Emmanuelle Henry",
+    "email": "bonninluce@example.org",
+    "telephone": "+33 4 79 04 76 70",
+    "compte_client": "C68926"
+  },
+  "appareil": {
+    "type": "iPad",
+    "version_app": "3.1.5",
+    "os_version": "14.1"
+  },
+  "adresse_livraison": {
+    "rue": "boulevard de Valette",
+    "ville": "Paris",
+    "code_postal": "69294",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    }
+  ],
+  "montant_total": 650.0,
+  "statut": "confirmée",
+  "mode_paiement": "mobile_paiement",
+  "option_livraison": "point_relais",
+  "frais_livraison": 19.99,
+  "notification_push": true,
+  "promo_code": null
+}

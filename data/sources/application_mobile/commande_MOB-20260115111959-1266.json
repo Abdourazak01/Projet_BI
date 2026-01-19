@@ -1,0 +1,56 @@
+{
+  "id_commande": "MOB-20260115111959-1266",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:19:59.414138",
+  "client": {
+    "nom": "Vincent du Pelletier",
+    "email": "emmanuel14@example.net",
+    "telephone": "+33 4 82 39 57 01",
+    "compte_client": "C59861"
+  },
+  "appareil": {
+    "type": "Android",
+    "version_app": "3.1.5",
+    "os_version": "10.0"
+  },
+  "adresse_livraison": {
+    "rue": "100, avenue Isaac Blondel",
+    "ville": "Chartiernec",
+    "code_postal": "61773",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 3,
+      "prix_unitaire": 450.0,
+      "prix_total": 1350.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 1,
+      "prix_unitaire": 150.0,
+      "prix_total": 150.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 2,
+      "prix_unitaire": 25.0,
+      "prix_total": 50.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 2,
+      "prix_unitaire": 150.0,
+      "prix_total": 300.0
+    }
+  ],
+  "montant_total": 1850.0,
+  "statut": "confirmée",
+  "mode_paiement": "wallet_app",
+  "option_livraison": "point_relais",
+  "frais_livraison": 29.99,
+  "notification_push": true,
+  "promo_code": null
+}

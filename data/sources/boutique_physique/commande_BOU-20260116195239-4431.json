@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260116195239-4431",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:52:39.902620",
+  "client": {
+    "nom": "Constance-Christelle Guibert",
+    "email": "maryse21@example.org",
+    "telephone": "+33 (0)2 28 18 81 45"
+  },
+  "boutique": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 1,
+      "prix_unitaire": 40.0,
+      "prix_total": 40.0
+    }
+  ],
+  "montant_total": 40.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V641"
+}

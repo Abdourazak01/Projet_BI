@@ -1,0 +1,41 @@
+{
+  "id_commande": "BOU-20260116195344-6417",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:53:44.721181",
+  "client": {
+    "nom": "Alice Maillard-Poirier",
+    "email": "blelievre@example.net",
+    "telephone": "0142782247"
+  },
+  "boutique": "Khouribga Centre",
+  "produits": [
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 3,
+      "prix_unitaire": 40.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 3,
+      "prix_unitaire": 450.0,
+      "prix_total": 1350.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 3,
+      "prix_unitaire": 450.0,
+      "prix_total": 1350.0
+    }
+  ],
+  "montant_total": 2940.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V468"
+}

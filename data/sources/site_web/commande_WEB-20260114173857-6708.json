@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20260114173857-6708",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:38:57.732143",
+  "client": {
+    "nom": "Éléonore Guibert",
+    "email": "verdierclaude@example.org",
+    "telephone": "02 32 75 26 09"
+  },
+  "adresse_livraison": {
+    "rue": "48, rue Susan Dupont",
+    "ville": "BourgeoisVille",
+    "code_postal": "40880",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 3,
+      "prix_unitaire": 1100.0,
+      "prix_total": 3300.0
+    }
+  ],
+  "montant_total": 4500.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

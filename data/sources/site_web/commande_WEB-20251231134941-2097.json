@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20251231134941-2097",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:41.614310",
+  "client": {
+    "nom": "Margaud Vidal",
+    "email": "colette84@example.net",
+    "telephone": "0508573552"
+  },
+  "adresse_livraison": {
+    "rue": "2, rue Simon",
+    "ville": "Devaux",
+    "code_postal": "54152",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 2,
+      "prix_unitaire": 15.0,
+      "prix_total": 30.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 2,
+      "prix_unitaire": 25.0,
+      "prix_total": 50.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 2,
+      "prix_unitaire": 1200.0,
+      "prix_total": 2400.0
+    }
+  ],
+  "montant_total": 2480.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire"
+}

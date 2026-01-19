@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20260114173912-8478",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:12.271220",
+  "client": {
+    "nom": "Adélaïde Marie",
+    "email": "kpetitjean@example.org",
+    "telephone": "+33 (0)1 82 29 95 12"
+  },
+  "adresse_livraison": {
+    "rue": "boulevard de Allard",
+    "ville": "OlivierVille",
+    "code_postal": "56993",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 3,
+      "prix_unitaire": 25.0,
+      "prix_total": 75.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 195.0,
+  "statut": "annulée",
+  "mode_paiement": "virement"
+}

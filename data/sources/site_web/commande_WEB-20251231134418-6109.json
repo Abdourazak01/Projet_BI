@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134418-6109",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:44:18.932483",
+  "client": {
+    "nom": "Augustin Gomes",
+    "email": "elise59@example.net",
+    "telephone": "0465624959"
+  },
+  "adresse_livraison": {
+    "rue": "779, chemin Jacquet",
+    "ville": "Legros",
+    "code_postal": "85994",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 2,
+      "prix_unitaire": 15.0,
+      "prix_total": 30.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 1,
+      "prix_unitaire": 40.0,
+      "prix_total": 40.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 3,
+      "prix_unitaire": 1100.0,
+      "prix_total": 3300.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 3,
+      "prix_unitaire": 60.0,
+      "prix_total": 180.0
+    }
+  ],
+  "montant_total": 3550.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

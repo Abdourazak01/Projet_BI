@@ -1,0 +1,38 @@
+{
+  "id_commande": "MOB-20260114174048-9955",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T17:40:48.977435",
+  "client": {
+    "nom": "Auguste Sanchez",
+    "email": "plemonnier@example.net",
+    "telephone": "+33 1 53 69 85 74",
+    "compte_client": "C12482"
+  },
+  "appareil": {
+    "type": "Android",
+    "version_app": "2.8.4",
+    "os_version": "15.6"
+  },
+  "adresse_livraison": {
+    "rue": "6, rue Étienne",
+    "ville": "Launaynec",
+    "code_postal": "79752",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 1,
+      "prix_unitaire": 25.0,
+      "prix_total": 25.0
+    }
+  ],
+  "montant_total": 25.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "standard",
+  "frais_livraison": 9.99,
+  "notification_push": true,
+  "promo_code": null
+}

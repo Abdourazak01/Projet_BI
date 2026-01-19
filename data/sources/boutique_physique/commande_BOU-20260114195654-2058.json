@@ -1,0 +1,29 @@
+{
+  "id_commande": "BOU-20260114195654-2058",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T19:56:54.537300",
+  "client": {
+    "nom": "Roger Bailly",
+    "email": "xdescamps@example.net",
+    "telephone": "+33 1 79 40 50 38"
+  },
+  "boutique": "Casablanca Marina",
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 3,
+      "prix_unitaire": 350.0,
+      "prix_total": 1050.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    }
+  ],
+  "montant_total": 3250.0,
+  "statut": "confirmée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V640"
+}

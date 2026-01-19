@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20260114173858-2269",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:38:58.084214",
+  "client": {
+    "nom": "Charlotte Ledoux-Maillot",
+    "email": "giraudvincent@example.net",
+    "telephone": "0470387052"
+  },
+  "adresse_livraison": {
+    "rue": "3, rue de Leleu",
+    "ville": "Saint Claude",
+    "code_postal": "74191",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 3,
+      "prix_unitaire": 85.0,
+      "prix_total": 255.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 3,
+      "prix_unitaire": 150.0,
+      "prix_total": 450.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 2,
+      "prix_unitaire": 40.0,
+      "prix_total": 80.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    }
+  ],
+  "montant_total": 1135.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

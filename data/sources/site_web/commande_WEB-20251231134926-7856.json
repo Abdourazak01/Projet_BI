@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134926-7856",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:26.001372",
+  "client": {
+    "nom": "Jacques Pineau",
+    "email": "edithleveque@example.org",
+    "telephone": "04 34 44 98 13"
+  },
+  "adresse_livraison": {
+    "rue": "93, boulevard Pénélope Joubert",
+    "ville": "Marie",
+    "code_postal": "20606",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 1,
+      "prix_unitaire": 150.0,
+      "prix_total": 150.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 2,
+      "prix_unitaire": 35.0,
+      "prix_total": 70.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    }
+  ],
+  "montant_total": 355.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire"
+}

@@ -1,0 +1,33 @@
+{
+  "id_commande": "MOB-20260114175845-6555",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T17:58:45.338234",
+  "client": {
+    "nom": "Gilles Potier",
+    "email": "barthelemymarie@example.org",
+    "telephone": "01 46 62 43 61",
+    "compte_client": "C80186"
+  },
+  "appareil": {
+    "type": "iPad",
+    "version_app": "3.2.1",
+    "os_version": "11.2"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Khouribga Centre",
+  "produits": [
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 3,
+      "prix_unitaire": 120.0,
+      "prix_total": 360.0
+    }
+  ],
+  "montant_total": 360.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": true,
+  "promo_code": null
+}

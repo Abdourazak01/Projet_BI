@@ -1,0 +1,35 @@
+{
+  "id_commande": "BOU-20260114200336-7122",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T20:03:36.206259",
+  "client": {
+    "nom": "William Perret",
+    "email": "larochebernard@example.org",
+    "telephone": "05 65 89 89 72"
+  },
+  "boutique": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 3,
+      "prix_unitaire": 35.0,
+      "prix_total": 105.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 2,
+      "prix_unitaire": 150.0,
+      "prix_total": 300.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 3,
+      "prix_unitaire": 15.0,
+      "prix_total": 45.0
+    }
+  ],
+  "montant_total": 450.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V198"
+}

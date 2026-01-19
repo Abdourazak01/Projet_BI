@@ -1,0 +1,33 @@
+{
+  "id_commande": "MOB-20260115112038-3010",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:20:38.593869",
+  "client": {
+    "nom": "Théophile-Richard Louis",
+    "email": "vincentlacombe@example.com",
+    "telephone": "+33 (0)3 62 44 17 94",
+    "compte_client": "C81569"
+  },
+  "appareil": {
+    "type": "Tablette Android",
+    "version_app": "3.0.9",
+    "os_version": "15.9"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Marrakech Gueliz",
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    }
+  ],
+  "montant_total": 15.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": false,
+  "promo_code": null
+}

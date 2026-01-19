@@ -1,0 +1,56 @@
+{
+  "id_commande": "MOB-20260114195752-2366",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T19:57:52.218278",
+  "client": {
+    "nom": "Dominique Lebreton de Navarro",
+    "email": "boulayfrancois@example.com",
+    "telephone": "0155602507",
+    "compte_client": "C58965"
+  },
+  "appareil": {
+    "type": "iPhone",
+    "version_app": "3.2.1",
+    "os_version": "11.1"
+  },
+  "adresse_livraison": {
+    "rue": "avenue Charlotte Simon",
+    "ville": "Hernandez",
+    "code_postal": "85944",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 3,
+      "prix_unitaire": 40.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 3,
+      "prix_unitaire": 150.0,
+      "prix_total": 450.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    }
+  ],
+  "montant_total": 1390.0,
+  "statut": "confirmée",
+  "mode_paiement": "wallet_app",
+  "option_livraison": "standard",
+  "frais_livraison": 0.0,
+  "notification_push": true,
+  "promo_code": "PROMO555"
+}

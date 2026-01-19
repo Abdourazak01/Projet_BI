@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134631-8839",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:46:31.472631",
+  "client": {
+    "nom": "Christiane Pascal",
+    "email": "hardylaurence@example.org",
+    "telephone": "+33 (0)4 11 06 90 56"
+  },
+  "adresse_livraison": {
+    "rue": "568, avenue Sylvie Teixeira",
+    "ville": "Fournier",
+    "code_postal": "32870",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 3,
+      "prix_unitaire": 1200.0,
+      "prix_total": 3600.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 3,
+      "prix_unitaire": 35.0,
+      "prix_total": 105.0
+    }
+  ],
+  "montant_total": 3705.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

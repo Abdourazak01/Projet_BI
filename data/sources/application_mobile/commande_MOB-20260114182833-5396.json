@@ -1,0 +1,56 @@
+{
+  "id_commande": "MOB-20260114182833-5396",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T18:28:33.884720",
+  "client": {
+    "nom": "Xavier Peron",
+    "email": "sophieparis@example.org",
+    "telephone": "+33 (0)4 38 24 98 25",
+    "compte_client": "C14718"
+  },
+  "appareil": {
+    "type": "Tablette Android",
+    "version_app": "2.8.4",
+    "os_version": "13.4"
+  },
+  "adresse_livraison": {
+    "rue": "boulevard de Lebrun",
+    "ville": "Gautier",
+    "code_postal": "91744",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 3,
+      "prix_unitaire": 120.0,
+      "prix_total": 360.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 1,
+      "prix_unitaire": 950.0,
+      "prix_total": 950.0
+    }
+  ],
+  "montant_total": 2860.0,
+  "statut": "confirmée",
+  "mode_paiement": "wallet_app",
+  "option_livraison": "point_relais",
+  "frais_livraison": 9.99,
+  "notification_push": true,
+  "promo_code": "PROMO782"
+}

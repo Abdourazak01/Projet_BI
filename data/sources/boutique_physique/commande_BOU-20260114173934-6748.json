@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260114173934-6748",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T17:39:34.639885",
+  "client": {
+    "nom": "Céline Bonneau de la Bonnin",
+    "email": "gilles85@example.com",
+    "telephone": "+33 6 79 80 73 64"
+  },
+  "boutique": "Marrakech Gueliz",
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 3,
+      "prix_unitaire": 15.0,
+      "prix_total": 45.0
+    }
+  ],
+  "montant_total": 45.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V667"
+}

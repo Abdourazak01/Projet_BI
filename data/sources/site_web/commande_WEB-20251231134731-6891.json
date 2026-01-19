@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134731-6891",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:47:31.688276",
+  "client": {
+    "nom": "Véronique Rousset",
+    "email": "peronelodie@example.org",
+    "telephone": "0473879809"
+  },
+  "adresse_livraison": {
+    "rue": "avenue Leroy",
+    "ville": "Maurydan",
+    "code_postal": "75527",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 2,
+      "prix_unitaire": 450.0,
+      "prix_total": 900.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 3,
+      "prix_unitaire": 350.0,
+      "prix_total": 1050.0
+    }
+  ],
+  "montant_total": 1950.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

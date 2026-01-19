@@ -1,0 +1,56 @@
+{
+  "id_commande": "MOB-20260114195821-7307",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T19:58:21.596357",
+  "client": {
+    "nom": "Zoé Camus",
+    "email": "eugene11@example.net",
+    "telephone": "0695078301",
+    "compte_client": "C21855"
+  },
+  "appareil": {
+    "type": "Tablette Android",
+    "version_app": "3.1.5",
+    "os_version": "10.8"
+  },
+  "adresse_livraison": {
+    "rue": "49, rue de Bouvet",
+    "ville": "Ramos",
+    "code_postal": "07329",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 3,
+      "prix_unitaire": 85.0,
+      "prix_total": 255.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 3,
+      "prix_unitaire": 950.0,
+      "prix_total": 2850.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 1,
+      "prix_unitaire": 35.0,
+      "prix_total": 35.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 3260.0,
+  "statut": "confirmée",
+  "mode_paiement": "wallet_app",
+  "option_livraison": "standard",
+  "frais_livraison": 29.99,
+  "notification_push": false,
+  "promo_code": null
+}

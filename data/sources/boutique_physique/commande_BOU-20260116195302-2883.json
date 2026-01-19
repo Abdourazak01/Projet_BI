@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260116195302-2883",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:53:02.736611",
+  "client": {
+    "nom": "Hortense-Thérèse Chevalier",
+    "email": "lecontenicole@example.org",
+    "telephone": "+33 6 46 57 85 03"
+  },
+  "boutique": "Khouribga Mall",
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 3,
+      "prix_unitaire": 15.0,
+      "prix_total": 45.0
+    }
+  ],
+  "montant_total": 45.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V165"
+}

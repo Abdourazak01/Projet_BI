@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20260114172122-8842",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:22.368276",
+  "client": {
+    "nom": "Léon Guichard du Faure",
+    "email": "julie35@example.net",
+    "telephone": "+33 (0)2 23 25 37 63"
+  },
+  "adresse_livraison": {
+    "rue": "11, rue de Evrard",
+    "ville": "Moulindan",
+    "code_postal": "20162",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 2,
+      "prix_unitaire": 80.0,
+      "prix_total": 160.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 3,
+      "prix_unitaire": 80.0,
+      "prix_total": 240.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 2,
+      "prix_unitaire": 120.0,
+      "prix_total": 240.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 760.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

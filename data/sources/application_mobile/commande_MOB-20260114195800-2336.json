@@ -1,0 +1,44 @@
+{
+  "id_commande": "MOB-20260114195800-2336",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T19:58:00.928374",
+  "client": {
+    "nom": "Gérard Maillet",
+    "email": "martheguillaume@example.com",
+    "telephone": "+33 6 36 21 23 61",
+    "compte_client": "C34362"
+  },
+  "appareil": {
+    "type": "Android",
+    "version_app": "3.1.5",
+    "os_version": "17.6"
+  },
+  "adresse_livraison": {
+    "rue": "rue Brigitte Vincent",
+    "ville": "Saint Monique",
+    "code_postal": "32176",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    }
+  ],
+  "montant_total": 2260.0,
+  "statut": "confirmée",
+  "mode_paiement": "mobile_paiement",
+  "option_livraison": "standard",
+  "frais_livraison": 9.99,
+  "notification_push": false,
+  "promo_code": "PROMO507"
+}

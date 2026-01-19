@@ -1,0 +1,33 @@
+{
+  "id_commande": "MOB-20260115112121-3193",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:21:21.102599",
+  "client": {
+    "nom": "Inès Richard",
+    "email": "sebastienjacques@example.org",
+    "telephone": "+33 2 47 74 00 20",
+    "compte_client": "C26459"
+  },
+  "appareil": {
+    "type": "iPhone",
+    "version_app": "3.1.5",
+    "os_version": "15.4"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Khouribga Centre",
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 1,
+      "prix_unitaire": 25.0,
+      "prix_total": 25.0
+    }
+  ],
+  "montant_total": 25.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": true,
+  "promo_code": "PROMO701"
+}

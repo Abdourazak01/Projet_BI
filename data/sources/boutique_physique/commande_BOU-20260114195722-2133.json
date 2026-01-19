@@ -1,0 +1,29 @@
+{
+  "id_commande": "BOU-20260114195722-2133",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T19:57:22.050514",
+  "client": {
+    "nom": "Caroline Morin Le Charles",
+    "email": "lopezanouk@example.com",
+    "telephone": "+33 (0)3 75 02 16 27"
+  },
+  "boutique": "Casablanca Marina",
+  "produits": [
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 3,
+      "prix_unitaire": 120.0,
+      "prix_total": 360.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 2,
+      "prix_unitaire": 15.0,
+      "prix_total": 30.0
+    }
+  ],
+  "montant_total": 390.0,
+  "statut": "annulée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V708"
+}

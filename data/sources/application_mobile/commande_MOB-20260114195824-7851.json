@@ -1,0 +1,33 @@
+{
+  "id_commande": "MOB-20260114195824-7851",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T19:58:24.197719",
+  "client": {
+    "nom": "Raymond Pottier-Allard",
+    "email": "gilbertverdier@example.org",
+    "telephone": "0323746417",
+    "compte_client": "C98104"
+  },
+  "appareil": {
+    "type": "Tablette Android",
+    "version_app": "3.1.5",
+    "os_version": "16.2"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Casablanca Marina",
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 1,
+      "prix_unitaire": 150.0,
+      "prix_total": 150.0
+    }
+  ],
+  "montant_total": 150.0,
+  "statut": "confirmée",
+  "mode_paiement": "mobile_paiement",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": true,
+  "promo_code": null
+}

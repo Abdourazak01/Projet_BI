@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20260114172123-9524",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:23.098462",
+  "client": {
+    "nom": "Léon Martineau",
+    "email": "getienne@example.org",
+    "telephone": "+33 (0)1 73 18 98 82"
+  },
+  "adresse_livraison": {
+    "rue": "5, rue René Picard",
+    "ville": "Turpin",
+    "code_postal": "97198",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 3,
+      "prix_unitaire": 25.0,
+      "prix_total": 75.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 225.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

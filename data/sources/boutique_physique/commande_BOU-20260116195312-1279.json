@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260116195312-1279",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:53:12.299001",
+  "client": {
+    "nom": "Vincent-Louis Martineau",
+    "email": "le-galllucy@example.net",
+    "telephone": null
+  },
+  "boutique": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 1,
+      "prix_unitaire": 40.0,
+      "prix_total": 40.0
+    }
+  ],
+  "montant_total": 40.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V550"
+}

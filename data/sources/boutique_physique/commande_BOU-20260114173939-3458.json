@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260114173939-3458",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T17:39:39.101257",
+  "client": {
+    "nom": "Tristan-Gilles Riou",
+    "email": "charlottelouis@example.com",
+    "telephone": "+33 (0)7 81 79 37 75"
+  },
+  "boutique": "Khouribga Centre",
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 2,
+      "prix_unitaire": 15.0,
+      "prix_total": 30.0
+    }
+  ],
+  "montant_total": 30.0,
+  "statut": "annulée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V469"
+}

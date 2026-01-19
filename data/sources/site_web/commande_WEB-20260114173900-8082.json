@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20260114173900-8082",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:00.769894",
+  "client": {
+    "nom": "Vincent Robin",
+    "email": "henri51@example.net",
+    "telephone": "+33 3 84 92 75 50"
+  },
+  "adresse_livraison": {
+    "rue": "13, avenue de Poirier",
+    "ville": "Vallet-sur-Guilbert",
+    "code_postal": "65587",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 3,
+      "prix_unitaire": 120.0,
+      "prix_total": 360.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 2,
+      "prix_unitaire": 80.0,
+      "prix_total": 160.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 3,
+      "prix_unitaire": 15.0,
+      "prix_total": 45.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 3,
+      "prix_unitaire": 60.0,
+      "prix_total": 180.0
+    }
+  ],
+  "montant_total": 745.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

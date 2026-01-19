@@ -1,0 +1,56 @@
+{
+  "id_commande": "MOB-20260114175834-8372",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T17:58:34.743162",
+  "client": {
+    "nom": "Suzanne de la Breton",
+    "email": "aimeleroux@example.com",
+    "telephone": "+33 4 50 27 66 38",
+    "compte_client": "C78720"
+  },
+  "appareil": {
+    "type": "iPad",
+    "version_app": "3.1.5",
+    "os_version": "10.7"
+  },
+  "adresse_livraison": {
+    "rue": "2, boulevard Bruneau",
+    "ville": "Sainte Susannedan",
+    "code_postal": "57543",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 3,
+      "prix_unitaire": 120.0,
+      "prix_total": 360.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 2,
+      "prix_unitaire": 40.0,
+      "prix_total": 80.0
+    }
+  ],
+  "montant_total": 730.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "standard",
+  "frais_livraison": 29.99,
+  "notification_push": false,
+  "promo_code": null
+}

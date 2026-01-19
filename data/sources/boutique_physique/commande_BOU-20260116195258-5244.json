@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260116195258-5244",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:52:58.087573",
+  "client": {
+    "nom": "Claire-Audrey Perrot",
+    "email": "antoinettegilbert@example.net",
+    "telephone": null
+  },
+  "boutique": "Marrakech Gueliz",
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    }
+  ],
+  "montant_total": 1300.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V660"
+}

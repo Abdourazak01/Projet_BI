@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134734-1761",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:47:34.634325",
+  "client": {
+    "nom": "Célina-Françoise Monnier",
+    "email": "alixverdier@example.org",
+    "telephone": "+33 (0)4 85 72 82 74"
+  },
+  "adresse_livraison": {
+    "rue": "58, rue de Goncalves",
+    "ville": "Girard-sur-Robert",
+    "code_postal": "30729",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 3,
+      "prix_unitaire": 950.0,
+      "prix_total": 2850.0
+    }
+  ],
+  "montant_total": 2850.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

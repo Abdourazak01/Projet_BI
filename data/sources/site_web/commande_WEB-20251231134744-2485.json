@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134744-2485",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:47:44.063106",
+  "client": {
+    "nom": "Catherine Jacquot",
+    "email": "adrienguilbert@example.org",
+    "telephone": "+33 (0)4 73 79 31 18"
+  },
+  "adresse_livraison": {
+    "rue": "305, boulevard de Gillet",
+    "ville": "Girard-sur-Guyot",
+    "code_postal": "37867",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 3,
+      "prix_unitaire": 450.0,
+      "prix_total": 1350.0
+    }
+  ],
+  "montant_total": 2280.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

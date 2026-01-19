@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134920-8407",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:20.571776",
+  "client": {
+    "nom": "Amélie Ledoux de la Michel",
+    "email": "astrid55@example.org",
+    "telephone": "+33 (0)6 31 00 68 09"
+  },
+  "adresse_livraison": {
+    "rue": "59, rue Diane Morvan",
+    "ville": "Picard",
+    "code_postal": "38893",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 1,
+      "prix_unitaire": 85.0,
+      "prix_total": 85.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 2,
+      "prix_unitaire": 80.0,
+      "prix_total": 160.0
+    }
+  ],
+  "montant_total": 245.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

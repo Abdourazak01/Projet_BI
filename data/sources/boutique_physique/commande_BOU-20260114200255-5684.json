@@ -1,0 +1,29 @@
+{
+  "id_commande": "BOU-20260114200255-5684",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T20:02:55.137290",
+  "client": {
+    "nom": "Marcelle Lebon",
+    "email": "qcollin@example.org",
+    "telephone": null
+  },
+  "boutique": "Khouribga Mall",
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 3,
+      "prix_unitaire": 350.0,
+      "prix_total": 1050.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 1,
+      "prix_unitaire": 85.0,
+      "prix_total": 85.0
+    }
+  ],
+  "montant_total": 1135.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V905"
+}

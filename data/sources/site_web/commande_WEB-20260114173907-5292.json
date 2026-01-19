@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20260114173907-5292",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:07.891979",
+  "client": {
+    "nom": "Capucine Delorme-Moreno",
+    "email": "pfernandes@example.com",
+    "telephone": "+33 4 57 97 52 53"
+  },
+  "adresse_livraison": {
+    "rue": "10, boulevard Le Gall",
+    "ville": "Bodin",
+    "code_postal": "19423",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 1,
+      "prix_unitaire": 25.0,
+      "prix_total": 25.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 3,
+      "prix_unitaire": 650.0,
+      "prix_total": 1950.0
+    }
+  ],
+  "montant_total": 1975.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134515-8619",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:45:15.846328",
+  "client": {
+    "nom": "Alix Imbert",
+    "email": "claireguyot@example.org",
+    "telephone": "0218835947"
+  },
+  "adresse_livraison": {
+    "rue": "70, avenue de Petitjean",
+    "ville": "Lenoir",
+    "code_postal": "47754",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 1,
+      "prix_unitaire": 80.0,
+      "prix_total": 80.0
+    }
+  ],
+  "montant_total": 80.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

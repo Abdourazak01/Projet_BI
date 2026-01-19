@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134636-8942",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:46:36.362762",
+  "client": {
+    "nom": "Olivie Rousset",
+    "email": "mdijoux@example.com",
+    "telephone": "0235347899"
+  },
+  "adresse_livraison": {
+    "rue": "47, chemin de Gay",
+    "ville": "François",
+    "code_postal": "30901",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    }
+  ],
+  "montant_total": 1260.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

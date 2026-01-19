@@ -1,0 +1,38 @@
+{
+  "id_commande": "MOB-20260115112105-1479",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:21:05.077115",
+  "client": {
+    "nom": "Margaux Le Sauvage",
+    "email": "bernadette26@example.com",
+    "telephone": "+33 (0)4 27 55 02 35",
+    "compte_client": "C63045"
+  },
+  "appareil": {
+    "type": "iPad",
+    "version_app": "3.1.5",
+    "os_version": "11.6"
+  },
+  "adresse_livraison": {
+    "rue": "66, rue Cordier",
+    "ville": "Saint Marc-les-Bains",
+    "code_postal": "23472",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    }
+  ],
+  "montant_total": 2200.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "point_relais",
+  "frais_livraison": 29.99,
+  "notification_push": false,
+  "promo_code": null
+}

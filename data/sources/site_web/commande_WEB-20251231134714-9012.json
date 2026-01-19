@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20251231134714-9012",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:47:14.685350",
+  "client": {
+    "nom": "Brigitte Dumas-Morel",
+    "email": "adelmas@example.org",
+    "telephone": "+33 5 81 01 25 84"
+  },
+  "adresse_livraison": {
+    "rue": "boulevard Gilles Fischer",
+    "ville": "Renard",
+    "code_postal": "34523",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    }
+  ],
+  "montant_total": 2380.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

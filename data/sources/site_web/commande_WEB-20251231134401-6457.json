@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134401-6457",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:44:01.152485",
+  "client": {
+    "nom": "Adélaïde Lévy",
+    "email": "olaroche@example.com",
+    "telephone": "04 32 86 06 76"
+  },
+  "adresse_livraison": {
+    "rue": "36, avenue de Mathieu",
+    "ville": "Guichard",
+    "code_postal": "54688",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 1,
+      "prix_unitaire": 450.0,
+      "prix_total": 450.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 3,
+      "prix_unitaire": 25.0,
+      "prix_total": 75.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    }
+  ],
+  "montant_total": 3075.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

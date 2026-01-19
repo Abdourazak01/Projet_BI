@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114173903-6884",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:03.841424",
+  "client": {
+    "nom": "Patrick-Robert Lemonnier",
+    "email": "richard11@example.net",
+    "telephone": "+33 (0)2 45 37 98 44"
+  },
+  "adresse_livraison": {
+    "rue": "5, rue Dupuis",
+    "ville": "Saint Gabriel",
+    "code_postal": "23594",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    }
+  ],
+  "montant_total": 700.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

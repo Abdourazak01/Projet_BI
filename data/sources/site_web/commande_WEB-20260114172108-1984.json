@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20260114172108-1984",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:08.121705",
+  "client": {
+    "nom": "Lucas Le Gall",
+    "email": "alixgilbert@example.org",
+    "telephone": "0355260644"
+  },
+  "adresse_livraison": {
+    "rue": "81, rue Poirier",
+    "ville": "Roussel-sur-Salmon",
+    "code_postal": "15322",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 1,
+      "prix_unitaire": 25.0,
+      "prix_total": 25.0
+    }
+  ],
+  "montant_total": 85.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire"
+}

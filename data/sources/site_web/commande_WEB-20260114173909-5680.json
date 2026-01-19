@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114173909-5680",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:09.247613",
+  "client": {
+    "nom": "Maurice-Alain Munoz",
+    "email": "hardyines@example.com",
+    "telephone": "0533093392"
+  },
+  "adresse_livraison": {
+    "rue": "chemin Raymond Fernandez",
+    "ville": "Teixeira",
+    "code_postal": "87352",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 2,
+      "prix_unitaire": 25.0,
+      "prix_total": 50.0
+    }
+  ],
+  "montant_total": 50.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire"
+}

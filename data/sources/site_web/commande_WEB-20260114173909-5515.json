@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20260114173909-5515",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:09.931434",
+  "client": {
+    "nom": "Juliette Marchal de Lacroix",
+    "email": "laurefaure@example.com",
+    "telephone": "+33 5 64 46 04 90"
+  },
+  "adresse_livraison": {
+    "rue": "804, boulevard Boucher",
+    "ville": "Pineau",
+    "code_postal": "52850",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 2,
+      "prix_unitaire": 950.0,
+      "prix_total": 1900.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 3,
+      "prix_unitaire": 150.0,
+      "prix_total": 450.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 3,
+      "prix_unitaire": 650.0,
+      "prix_total": 1950.0
+    }
+  ],
+  "montant_total": 4420.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

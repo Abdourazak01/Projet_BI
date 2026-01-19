@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134711-2593",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:47:11.980179",
+  "client": {
+    "nom": "Marc du Lévêque",
+    "email": "olivierandree@example.com",
+    "telephone": "01 58 45 15 77"
+  },
+  "adresse_livraison": {
+    "rue": "15, chemin Simone Duval",
+    "ville": "Girarddan",
+    "code_postal": "58916",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 3,
+      "prix_unitaire": 85.0,
+      "prix_total": 255.0
+    }
+  ],
+  "montant_total": 1455.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

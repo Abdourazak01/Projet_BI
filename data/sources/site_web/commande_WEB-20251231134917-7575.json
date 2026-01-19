@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134917-7575",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:17.322611",
+  "client": {
+    "nom": "Hortense Lamy",
+    "email": "astridmarin@example.net",
+    "telephone": "+33 6 09 87 61 22"
+  },
+  "adresse_livraison": {
+    "rue": "90, rue Lorraine Ribeiro",
+    "ville": "Roussel",
+    "code_postal": "11302",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 2,
+      "prix_unitaire": 35.0,
+      "prix_total": 70.0
+    }
+  ],
+  "montant_total": 1780.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

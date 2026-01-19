@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20260114172113-9074",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:13.349138",
+  "client": {
+    "nom": "Margaret Parent-Hoareau",
+    "email": "oceaneleveque@example.net",
+    "telephone": "+33 (0)5 47 18 55 13"
+  },
+  "adresse_livraison": {
+    "rue": "59, rue Aimée Bourgeois",
+    "ville": "Vidal",
+    "code_postal": "38576",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 3,
+      "prix_unitaire": 150.0,
+      "prix_total": 450.0
+    }
+  ],
+  "montant_total": 1750.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

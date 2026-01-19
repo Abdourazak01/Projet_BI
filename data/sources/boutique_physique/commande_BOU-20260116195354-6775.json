@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260116195354-6775",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:53:54.879422",
+  "client": {
+    "nom": "Édouard Tessier de la Potier",
+    "email": "clercvalerie@example.com",
+    "telephone": "+33 2 41 26 73 52"
+  },
+  "boutique": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    }
+  ],
+  "montant_total": 170.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V519"
+}

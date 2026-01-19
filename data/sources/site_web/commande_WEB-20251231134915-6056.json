@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20251231134915-6056",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:15.290579",
+  "client": {
+    "nom": "Amélie Pascal",
+    "email": "richardjeannine@example.net",
+    "telephone": "0355208891"
+  },
+  "adresse_livraison": {
+    "rue": "boulevard de Grégoire",
+    "ville": "Léger-la-Forêt",
+    "code_postal": "09329",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 1,
+      "prix_unitaire": 450.0,
+      "prix_total": 450.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 2,
+      "prix_unitaire": 450.0,
+      "prix_total": 900.0
+    }
+  ],
+  "montant_total": 1470.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

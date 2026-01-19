@@ -1,0 +1,56 @@
+{
+  "id_commande": "MOB-20251231135620-5727",
+  "canal": "application_mobile",
+  "date_commande": "2025-12-31T13:56:20.162685",
+  "client": {
+    "nom": "Antoine Robert",
+    "email": "christiane51@example.org",
+    "telephone": "+33 (0)4 68 54 65 89",
+    "compte_client": "C64910"
+  },
+  "appareil": {
+    "type": "iPhone",
+    "version_app": "3.0.9",
+    "os_version": "16.6"
+  },
+  "adresse_livraison": {
+    "rue": "2, boulevard de Masson",
+    "ville": "Pages",
+    "code_postal": "41868",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 3,
+      "prix_unitaire": 150.0,
+      "prix_total": 450.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 1,
+      "prix_unitaire": 85.0,
+      "prix_total": 85.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 3,
+      "prix_unitaire": 60.0,
+      "prix_total": 180.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 3,
+      "prix_unitaire": 650.0,
+      "prix_total": 1950.0
+    }
+  ],
+  "montant_total": 2665.0,
+  "statut": "annulée",
+  "mode_paiement": "mobile_paiement",
+  "option_livraison": "point_relais",
+  "frais_livraison": 19.99,
+  "notification_push": true,
+  "promo_code": null
+}

@@ -1,0 +1,35 @@
+{
+  "id_commande": "BOU-20260116195417-7642",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:54:17.335962",
+  "client": {
+    "nom": "Diane Hardy-Leconte",
+    "email": null,
+    "telephone": "+33 5 45 79 66 91"
+  },
+  "boutique": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 3,
+      "prix_unitaire": 85.0,
+      "prix_total": 255.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 1,
+      "prix_unitaire": 950.0,
+      "prix_total": 950.0
+    }
+  ],
+  "montant_total": 1855.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V712"
+}

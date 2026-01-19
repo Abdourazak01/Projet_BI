@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20260114172121-2334",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:21.470747",
+  "client": {
+    "nom": "Agnès de Delannoy",
+    "email": "elucas@example.net",
+    "telephone": "+33 (0)5 61 99 70 61"
+  },
+  "adresse_livraison": {
+    "rue": "avenue Lucas Charpentier",
+    "ville": "Benard",
+    "code_postal": "97485",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 2,
+      "prix_unitaire": 80.0,
+      "prix_total": 160.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 3,
+      "prix_unitaire": 350.0,
+      "prix_total": 1050.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    }
+  ],
+  "montant_total": 1345.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

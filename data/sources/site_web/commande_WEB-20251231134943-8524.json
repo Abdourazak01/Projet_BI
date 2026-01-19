@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134943-8524",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:43.364836",
+  "client": {
+    "nom": "Philippe Andre",
+    "email": "celina05@example.net",
+    "telephone": "+33 5 65 45 52 55"
+  },
+  "adresse_livraison": {
+    "rue": "601, rue Lebreton",
+    "ville": "Sainte Alix",
+    "code_postal": "32556",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 1,
+      "prix_unitaire": 40.0,
+      "prix_total": 40.0
+    }
+  ],
+  "montant_total": 40.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

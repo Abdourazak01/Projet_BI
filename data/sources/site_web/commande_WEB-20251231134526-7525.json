@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134526-7525",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:45:26.273923",
+  "client": {
+    "nom": "Margaux Rousset",
+    "email": "ebourgeois@example.com",
+    "telephone": "0532730846"
+  },
+  "adresse_livraison": {
+    "rue": "66, boulevard de Cordier",
+    "ville": "Poulain",
+    "code_postal": "44165",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 3,
+      "prix_unitaire": 25.0,
+      "prix_total": 75.0
+    }
+  ],
+  "montant_total": 75.0,
+  "statut": "annulée",
+  "mode_paiement": "paypal"
+}

@@ -1,0 +1,51 @@
+{
+  "id_commande": "MOB-20260115112114-8051",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:21:14.450892",
+  "client": {
+    "nom": "Raymond Millet",
+    "email": "corinneda-silva@example.net",
+    "telephone": "0256517073",
+    "compte_client": "C27624"
+  },
+  "appareil": {
+    "type": "iPad",
+    "version_app": "3.2.1",
+    "os_version": "10.6"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Casablanca Marina",
+  "produits": [
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 3,
+      "prix_unitaire": 1200.0,
+      "prix_total": 3600.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 3,
+      "prix_unitaire": 80.0,
+      "prix_total": 240.0
+    }
+  ],
+  "montant_total": 4600.0,
+  "statut": "confirmée",
+  "mode_paiement": "mobile_paiement",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": false,
+  "promo_code": "PROMO163"
+}

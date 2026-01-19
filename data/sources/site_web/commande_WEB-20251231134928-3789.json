@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134928-3789",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:28.950728",
+  "client": {
+    "nom": "Émile Gimenez-Munoz",
+    "email": "bbonnet@example.com",
+    "telephone": "+33 (0)6 30 94 18 86"
+  },
+  "adresse_livraison": {
+    "rue": "6, rue Humbert",
+    "ville": "MarchandBourg",
+    "code_postal": "13769",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    }
+  ],
+  "montant_total": 350.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

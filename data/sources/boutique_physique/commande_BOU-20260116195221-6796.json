@@ -1,0 +1,29 @@
+{
+  "id_commande": "BOU-20260116195221-6796",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:52:21.894268",
+  "client": {
+    "nom": "Anne Gilbert-Pichon",
+    "email": null,
+    "telephone": "+33 (0)2 51 32 20 87"
+  },
+  "boutique": "Khouribga Centre",
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 2,
+      "prix_unitaire": 150.0,
+      "prix_total": 300.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 420.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V728"
+}

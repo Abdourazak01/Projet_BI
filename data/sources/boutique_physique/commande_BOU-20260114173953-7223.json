@@ -1,0 +1,35 @@
+{
+  "id_commande": "BOU-20260114173953-7223",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T17:39:53.344189",
+  "client": {
+    "nom": "Alix Klein",
+    "email": "maggie19@example.org",
+    "telephone": "+33 (0)3 70 29 11 72"
+  },
+  "boutique": "Khouribga Centre",
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 2,
+      "prix_unitaire": 25.0,
+      "prix_total": 50.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 1,
+      "prix_unitaire": 40.0,
+      "prix_total": 40.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    }
+  ],
+  "montant_total": 1290.0,
+  "statut": "confirmée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V225"
+}

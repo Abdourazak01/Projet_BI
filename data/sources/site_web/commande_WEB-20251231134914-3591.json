@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134914-3591",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:14.336206",
+  "client": {
+    "nom": "Adélaïde Auger-Payet",
+    "email": "denise75@example.net",
+    "telephone": "04 32 80 06 34"
+  },
+  "adresse_livraison": {
+    "rue": "29, chemin Nathalie Gosselin",
+    "ville": "Prévost-sur-Ferreira",
+    "code_postal": "10788",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 2,
+      "prix_unitaire": 150.0,
+      "prix_total": 300.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 2,
+      "prix_unitaire": 25.0,
+      "prix_total": 50.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 1,
+      "prix_unitaire": 40.0,
+      "prix_total": 40.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 1,
+      "prix_unitaire": 80.0,
+      "prix_total": 80.0
+    }
+  ],
+  "montant_total": 470.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

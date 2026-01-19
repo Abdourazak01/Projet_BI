@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134307-6123",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:43:07.655802",
+  "client": {
+    "nom": "Alphonse Julien",
+    "email": "jeromeriou@example.org",
+    "telephone": "+33 (0)2 31 03 03 80"
+  },
+  "adresse_livraison": {
+    "rue": "237, boulevard Petitjean",
+    "ville": "Jean",
+    "code_postal": "15779",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 3,
+      "prix_unitaire": 80.0,
+      "prix_total": 240.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 3,
+      "prix_unitaire": 650.0,
+      "prix_total": 1950.0
+    }
+  ],
+  "montant_total": 2480.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

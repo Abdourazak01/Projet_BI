@@ -1,0 +1,29 @@
+{
+  "id_commande": "BOU-20260114200334-1494",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T20:03:34.067435",
+  "client": {
+    "nom": "Vincent de la Vallet",
+    "email": "laure71@example.com",
+    "telephone": "0219979385"
+  },
+  "boutique": "Khouribga Centre",
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 1,
+      "prix_unitaire": 150.0,
+      "prix_total": 150.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 3,
+      "prix_unitaire": 15.0,
+      "prix_total": 45.0
+    }
+  ],
+  "montant_total": 195.0,
+  "statut": "confirmée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V100"
+}

@@ -1,0 +1,35 @@
+{
+  "id_commande": "BOU-20260116195237-9018",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:52:37.421908",
+  "client": {
+    "nom": "Alain de Guyon",
+    "email": "baudryalphonse@example.net",
+    "telephone": "04 27 62 37 47"
+  },
+  "boutique": "Khouribga Mall",
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 3,
+      "prix_unitaire": 85.0,
+      "prix_total": 255.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    }
+  ],
+  "montant_total": 595.0,
+  "statut": "confirmée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V817"
+}

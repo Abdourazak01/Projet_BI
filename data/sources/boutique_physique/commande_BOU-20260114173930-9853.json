@@ -1,0 +1,29 @@
+{
+  "id_commande": "BOU-20260114173930-9853",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T17:39:30.717002",
+  "client": {
+    "nom": "Grégoire Mathieu-Delannoy",
+    "email": "martinlabbe@example.net",
+    "telephone": "+33 (0)6 38 57 28 47"
+  },
+  "boutique": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 2,
+      "prix_unitaire": 15.0,
+      "prix_total": 30.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 2,
+      "prix_unitaire": 450.0,
+      "prix_total": 900.0
+    }
+  ],
+  "montant_total": 930.0,
+  "statut": "confirmée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V675"
+}

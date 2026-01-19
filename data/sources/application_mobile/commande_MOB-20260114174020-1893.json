@@ -1,0 +1,45 @@
+{
+  "id_commande": "MOB-20260114174020-1893",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T17:40:20.254456",
+  "client": {
+    "nom": "Lucas Hamel",
+    "email": "flacroix@example.org",
+    "telephone": "+33 (0)2 62 33 81 58",
+    "compte_client": "C15525"
+  },
+  "appareil": {
+    "type": "iPhone",
+    "version_app": "2.8.4",
+    "os_version": "11.7"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Marrakech Gueliz",
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 2,
+      "prix_unitaire": 15.0,
+      "prix_total": 30.0
+    }
+  ],
+  "montant_total": 900.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": true,
+  "promo_code": null
+}

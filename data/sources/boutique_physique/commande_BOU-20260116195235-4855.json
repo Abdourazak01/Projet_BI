@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260116195235-4855",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:52:35.131830",
+  "client": {
+    "nom": "Dorothée Colas",
+    "email": "wwagner@example.org",
+    "telephone": "+33 5 86 54 60 95"
+  },
+  "boutique": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    }
+  ],
+  "montant_total": 650.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V330"
+}

@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260116195350-8142",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:53:50.925138",
+  "client": {
+    "nom": "Bernard Charles Le Clément",
+    "email": "stephane33@example.net",
+    "telephone": null
+  },
+  "boutique": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    }
+  ],
+  "montant_total": 170.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V274"
+}

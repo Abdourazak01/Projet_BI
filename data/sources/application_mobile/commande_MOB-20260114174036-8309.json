@@ -1,0 +1,33 @@
+{
+  "id_commande": "MOB-20260114174036-8309",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T17:40:36.978337",
+  "client": {
+    "nom": "Bertrand du Rossi",
+    "email": "marquesjulien@example.com",
+    "telephone": "0130420068",
+    "compte_client": "C38227"
+  },
+  "appareil": {
+    "type": "iPhone",
+    "version_app": "3.1.5",
+    "os_version": "11.9"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Khouribga Centre",
+  "produits": [
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 3,
+      "prix_unitaire": 60.0,
+      "prix_total": 180.0
+    }
+  ],
+  "montant_total": 180.0,
+  "statut": "confirmée",
+  "mode_paiement": "mobile_paiement",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": false,
+  "promo_code": null
+}

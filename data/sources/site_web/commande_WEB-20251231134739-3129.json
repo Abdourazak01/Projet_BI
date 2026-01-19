@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20251231134739-3129",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:47:39.512146",
+  "client": {
+    "nom": "Antoine Gautier",
+    "email": "robert95@example.org",
+    "telephone": "+33 4 50 90 34 85"
+  },
+  "adresse_livraison": {
+    "rue": "35, avenue Barbier",
+    "ville": "TessierBourg",
+    "code_postal": "97197",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    }
+  ],
+  "montant_total": 4150.0,
+  "statut": "annulée",
+  "mode_paiement": "virement"
+}

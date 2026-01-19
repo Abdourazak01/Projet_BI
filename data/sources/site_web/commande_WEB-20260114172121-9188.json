@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114172121-9188",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:21.671036",
+  "client": {
+    "nom": "Philippe Bertrand",
+    "email": "cohenrichard@example.com",
+    "telephone": "+33 5 17 25 38 83"
+  },
+  "adresse_livraison": {
+    "rue": "8, boulevard Collet",
+    "ville": "Payet",
+    "code_postal": "59818",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 1,
+      "prix_unitaire": 35.0,
+      "prix_total": 35.0
+    }
+  ],
+  "montant_total": 35.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

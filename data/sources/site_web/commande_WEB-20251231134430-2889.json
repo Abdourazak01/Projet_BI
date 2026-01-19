@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134430-2889",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:44:30.459508",
+  "client": {
+    "nom": "Victor Maillet de Lemoine",
+    "email": "ubaron@example.net",
+    "telephone": "05 54 96 48 98"
+  },
+  "adresse_livraison": {
+    "rue": "80, boulevard de Roche",
+    "ville": "Ramos",
+    "code_postal": "45821",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 1,
+      "prix_unitaire": 150.0,
+      "prix_total": 150.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 3,
+      "prix_unitaire": 650.0,
+      "prix_total": 1950.0
+    }
+  ],
+  "montant_total": 2100.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

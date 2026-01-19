@@ -1,0 +1,29 @@
+{
+  "id_commande": "BOU-20260114200327-2966",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T20:03:27.256777",
+  "client": {
+    "nom": "Éric Boyer de la Perrin",
+    "email": "penelopedenis@example.org",
+    "telephone": "+33 (0)2 37 66 83 71"
+  },
+  "boutique": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 1,
+      "prix_unitaire": 80.0,
+      "prix_total": 80.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 3,
+      "prix_unitaire": 950.0,
+      "prix_total": 2850.0
+    }
+  ],
+  "montant_total": 2930.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V408"
+}

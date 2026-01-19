@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134618-5627",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:46:18.313608",
+  "client": {
+    "nom": "Élisabeth Hervé",
+    "email": "alex35@example.com",
+    "telephone": "+33 (0)3 60 23 38 99"
+  },
+  "adresse_livraison": {
+    "rue": "57, rue Marcelle Faure",
+    "ville": "Germain-sur-Klein",
+    "code_postal": "63841",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 3,
+      "prix_unitaire": 950.0,
+      "prix_total": 2850.0
+    }
+  ],
+  "montant_total": 4715.0,
+  "statut": "annulée",
+  "mode_paiement": "virement"
+}

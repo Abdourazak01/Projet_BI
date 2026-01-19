@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20260114172113-2725",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:13.734990",
+  "client": {
+    "nom": "Aurélie Joseph",
+    "email": "ohumbert@example.net",
+    "telephone": "04 75 16 50 50"
+  },
+  "adresse_livraison": {
+    "rue": "rue Ferrand",
+    "ville": "Sainte Sébastien",
+    "code_postal": "50971",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    }
+  ],
+  "montant_total": 1300.0,
+  "statut": "annulée",
+  "mode_paiement": "paypal"
+}

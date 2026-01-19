@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134326-9612",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:43:26.286847",
+  "client": {
+    "nom": "Édouard Le Mace",
+    "email": "rrodriguez@example.com",
+    "telephone": "0636779111"
+  },
+  "adresse_livraison": {
+    "rue": "6, chemin de Pottier",
+    "ville": "Jean",
+    "code_postal": "08849",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 3,
+      "prix_unitaire": 350.0,
+      "prix_total": 1050.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 3,
+      "prix_unitaire": 80.0,
+      "prix_total": 240.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 3,
+      "prix_unitaire": 150.0,
+      "prix_total": 450.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    }
+  ],
+  "montant_total": 2090.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

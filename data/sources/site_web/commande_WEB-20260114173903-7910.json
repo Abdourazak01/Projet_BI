@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20260114173903-7910",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:03.427675",
+  "client": {
+    "nom": "Léon Maillet",
+    "email": "catherine76@example.net",
+    "telephone": "04 86 97 14 84"
+  },
+  "adresse_livraison": {
+    "rue": "rue Victor Delorme",
+    "ville": "Sainte Georges",
+    "code_postal": "10950",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 2,
+      "prix_unitaire": 150.0,
+      "prix_total": 300.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 2,
+      "prix_unitaire": 950.0,
+      "prix_total": 1900.0
+    }
+  ],
+  "montant_total": 2550.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114173908-5150",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:08.503462",
+  "client": {
+    "nom": "Catherine Carpentier",
+    "email": "suzanne47@example.com",
+    "telephone": "+33 (0)1 76 38 82 14"
+  },
+  "adresse_livraison": {
+    "rue": "78, rue de Hebert",
+    "ville": "Saint Manon",
+    "code_postal": "34124",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 1,
+      "prix_unitaire": 150.0,
+      "prix_total": 150.0
+    }
+  ],
+  "montant_total": 150.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire"
+}

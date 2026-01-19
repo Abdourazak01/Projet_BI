@@ -1,0 +1,50 @@
+{
+  "id_commande": "MOB-20260115112051-1877",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:20:51.938521",
+  "client": {
+    "nom": "Benoît Lefort",
+    "email": "ycarpentier@example.com",
+    "telephone": "04 82 92 79 84",
+    "compte_client": "C92234"
+  },
+  "appareil": {
+    "type": "Android",
+    "version_app": "3.1.5",
+    "os_version": "15.3"
+  },
+  "adresse_livraison": {
+    "rue": "74, rue Le Goff",
+    "ville": "Colas",
+    "code_postal": "55517",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 2,
+      "prix_unitaire": 120.0,
+      "prix_total": 240.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 1,
+      "prix_unitaire": 1100.0,
+      "prix_total": 1100.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 2,
+      "prix_unitaire": 950.0,
+      "prix_total": 1900.0
+    }
+  ],
+  "montant_total": 3240.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "point_relais",
+  "frais_livraison": 9.99,
+  "notification_push": false,
+  "promo_code": null
+}

@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134750-8835",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:47:50.897834",
+  "client": {
+    "nom": "Frédérique Delmas",
+    "email": "suzannevalette@example.org",
+    "telephone": "0143185743"
+  },
+  "adresse_livraison": {
+    "rue": "1, rue Adrien Merle",
+    "ville": "Rodriguez",
+    "code_postal": "65974",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 1,
+      "prix_unitaire": 450.0,
+      "prix_total": 450.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 2,
+      "prix_unitaire": 950.0,
+      "prix_total": 1900.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 1,
+      "prix_unitaire": 25.0,
+      "prix_total": 25.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 3,
+      "prix_unitaire": 1100.0,
+      "prix_total": 3300.0
+    }
+  ],
+  "montant_total": 5675.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

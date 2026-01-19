@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20260114172115-4809",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:15.338539",
+  "client": {
+    "nom": "Philippine-Odette Marchal",
+    "email": "louis04@example.com",
+    "telephone": "+33 1 64 38 72 93"
+  },
+  "adresse_livraison": {
+    "rue": "92, avenue Martin Gosselin",
+    "ville": "Sainte Honoré",
+    "code_postal": "56626",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 2,
+      "prix_unitaire": 1200.0,
+      "prix_total": 2400.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 1,
+      "prix_unitaire": 25.0,
+      "prix_total": 25.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 1,
+      "prix_unitaire": 150.0,
+      "prix_total": 150.0
+    }
+  ],
+  "montant_total": 3875.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

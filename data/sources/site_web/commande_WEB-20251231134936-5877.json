@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134936-5877",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:36.068945",
+  "client": {
+    "nom": "Marguerite Nguyen",
+    "email": "thardy@example.net",
+    "telephone": "0243762913"
+  },
+  "adresse_livraison": {
+    "rue": "89, chemin Arnaude Leclerc",
+    "ville": "Alexandre-la-Forêt",
+    "code_postal": "80297",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 3,
+      "prix_unitaire": 60.0,
+      "prix_total": 180.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 3,
+      "prix_unitaire": 350.0,
+      "prix_total": 1050.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 1,
+      "prix_unitaire": 150.0,
+      "prix_total": 150.0
+    }
+  ],
+  "montant_total": 2080.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

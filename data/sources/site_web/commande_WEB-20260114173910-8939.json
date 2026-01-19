@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114173910-8939",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:10.824028",
+  "client": {
+    "nom": "Nathalie Rousseau",
+    "email": "njacquet@example.org",
+    "telephone": "04 87 61 14 79"
+  },
+  "adresse_livraison": {
+    "rue": "34, rue Étienne Benard",
+    "ville": "Regnier",
+    "code_postal": "27479",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 3,
+      "prix_unitaire": 25.0,
+      "prix_total": 75.0
+    }
+  ],
+  "montant_total": 75.0,
+  "statut": "annulée",
+  "mode_paiement": "virement"
+}

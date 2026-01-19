@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134934-3214",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:34.266795",
+  "client": {
+    "nom": "Stéphane Verdier",
+    "email": "clairebouvet@example.net",
+    "telephone": "+33 (0)4 74 13 88 58"
+  },
+  "adresse_livraison": {
+    "rue": "5, boulevard Traore",
+    "ville": "Saint Christine",
+    "code_postal": "01644",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    }
+  ],
+  "montant_total": 650.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

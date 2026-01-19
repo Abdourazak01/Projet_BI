@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20260114173856-8296",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:38:56.972066",
+  "client": {
+    "nom": "Léon du Bigot",
+    "email": "bouvierclaire@example.com",
+    "telephone": "+33 (0)3 39 90 60 61"
+  },
+  "adresse_livraison": {
+    "rue": "68, boulevard de Leduc",
+    "ville": "Mathieu",
+    "code_postal": "39729",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 2,
+      "prix_unitaire": 15.0,
+      "prix_total": 30.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 1,
+      "prix_unitaire": 40.0,
+      "prix_total": 40.0
+    }
+  ],
+  "montant_total": 190.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

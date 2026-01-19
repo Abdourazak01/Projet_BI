@@ -1,0 +1,35 @@
+{
+  "id_commande": "BOU-20260114195711-5316",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T19:57:11.789012",
+  "client": {
+    "nom": "Léon Guillet",
+    "email": null,
+    "telephone": "+33 5 19 68 78 83"
+  },
+  "boutique": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 1,
+      "prix_unitaire": 950.0,
+      "prix_total": 950.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 2,
+      "prix_unitaire": 120.0,
+      "prix_total": 240.0
+    }
+  ],
+  "montant_total": 1310.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V329"
+}

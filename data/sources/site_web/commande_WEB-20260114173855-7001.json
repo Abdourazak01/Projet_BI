@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114173855-7001",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:38:55.264194",
+  "client": {
+    "nom": "Olivier Mary",
+    "email": "dupuyandre@example.net",
+    "telephone": "03 79 68 39 08"
+  },
+  "adresse_livraison": {
+    "rue": "705, chemin Couturier",
+    "ville": "Sainte Monique-la-Forêt",
+    "code_postal": "06244",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 3,
+      "prix_unitaire": 25.0,
+      "prix_total": 75.0
+    }
+  ],
+  "montant_total": 75.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

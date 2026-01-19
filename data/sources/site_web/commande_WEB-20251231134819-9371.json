@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134819-9371",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:48:19.187823",
+  "client": {
+    "nom": "Margaux Le Martineau",
+    "email": "claine@example.net",
+    "telephone": "+33 (0)3 23 44 40 33"
+  },
+  "adresse_livraison": {
+    "rue": "18, rue Laporte",
+    "ville": "Briand-sur-Parent",
+    "code_postal": "01796",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 1,
+      "prix_unitaire": 25.0,
+      "prix_total": 25.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 1,
+      "prix_unitaire": 80.0,
+      "prix_total": 80.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    }
+  ],
+  "montant_total": 2005.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

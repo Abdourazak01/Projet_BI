@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114172109-3752",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:09.814964",
+  "client": {
+    "nom": "André Couturier",
+    "email": "isaacletellier@example.net",
+    "telephone": "+33 2 99 29 22 14"
+  },
+  "adresse_livraison": {
+    "rue": "32, chemin Martel",
+    "ville": "Lejeune",
+    "code_postal": "34110",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 1,
+      "prix_unitaire": 25.0,
+      "prix_total": 25.0
+    }
+  ],
+  "montant_total": 25.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

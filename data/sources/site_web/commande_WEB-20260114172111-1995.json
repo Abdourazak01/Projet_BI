@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20260114172111-1995",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:11.939805",
+  "client": {
+    "nom": "Gilbert Albert",
+    "email": "cchauvet@example.net",
+    "telephone": "+33 (0)4 50 97 08 40"
+  },
+  "adresse_livraison": {
+    "rue": "29, boulevard Bousquet",
+    "ville": "Lefort-sur-Weiss",
+    "code_postal": "23846",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 3,
+      "prix_unitaire": 15.0,
+      "prix_total": 45.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 2,
+      "prix_unitaire": 450.0,
+      "prix_total": 900.0
+    }
+  ],
+  "montant_total": 945.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

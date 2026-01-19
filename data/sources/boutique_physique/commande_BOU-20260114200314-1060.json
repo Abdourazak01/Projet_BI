@@ -1,0 +1,29 @@
+{
+  "id_commande": "BOU-20260114200314-1060",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T20:03:14.165297",
+  "client": {
+    "nom": "Capucine Dumas-Petit",
+    "email": null,
+    "telephone": "+33 1 76 41 96 10"
+  },
+  "boutique": "Marrakech Gueliz",
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 2,
+      "prix_unitaire": 450.0,
+      "prix_total": 900.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 3,
+      "prix_unitaire": 15.0,
+      "prix_total": 45.0
+    }
+  ],
+  "montant_total": 945.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V611"
+}

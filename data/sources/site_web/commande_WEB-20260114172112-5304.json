@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20260114172112-5304",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:12.882839",
+  "client": {
+    "nom": "Patrick Samson",
+    "email": "marcelle03@example.org",
+    "telephone": "0534913124"
+  },
+  "adresse_livraison": {
+    "rue": "86, boulevard Leconte",
+    "ville": "Grenier-la-Forêt",
+    "code_postal": "58753",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 3,
+      "prix_unitaire": 35.0,
+      "prix_total": 105.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 2,
+      "prix_unitaire": 450.0,
+      "prix_total": 900.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 2,
+      "prix_unitaire": 950.0,
+      "prix_total": 1900.0
+    }
+  ],
+  "montant_total": 3255.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

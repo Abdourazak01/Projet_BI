@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260114200330-9895",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T20:03:30.847738",
+  "client": {
+    "nom": "Guillaume Dos Santos",
+    "email": "auguste06@example.org",
+    "telephone": null
+  },
+  "boutique": "Khouribga Centre",
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 1,
+      "prix_unitaire": 25.0,
+      "prix_total": 25.0
+    }
+  ],
+  "montant_total": 25.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V331"
+}

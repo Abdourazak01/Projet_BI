@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134942-9372",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:42.096427",
+  "client": {
+    "nom": "Matthieu Marques-Allard",
+    "email": "avallet@example.net",
+    "telephone": "+33 5 59 98 22 43"
+  },
+  "adresse_livraison": {
+    "rue": "97, rue Roger Fournier",
+    "ville": "Sainte Martin",
+    "code_postal": "63999",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 3,
+      "prix_unitaire": 80.0,
+      "prix_total": 240.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 1,
+      "prix_unitaire": 950.0,
+      "prix_total": 950.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 2,
+      "prix_unitaire": 15.0,
+      "prix_total": 30.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 3,
+      "prix_unitaire": 350.0,
+      "prix_total": 1050.0
+    }
+  ],
+  "montant_total": 2270.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

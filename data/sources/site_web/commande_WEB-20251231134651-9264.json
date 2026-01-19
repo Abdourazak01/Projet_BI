@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134651-9264",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:46:51.533002",
+  "client": {
+    "nom": "Stéphane-Alain Laroche",
+    "email": "legrosmartin@example.org",
+    "telephone": "04 43 00 24 21"
+  },
+  "adresse_livraison": {
+    "rue": "boulevard Brigitte Grenier",
+    "ville": "Poirierdan",
+    "code_postal": "44617",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 1,
+      "prix_unitaire": 80.0,
+      "prix_total": 80.0
+    }
+  ],
+  "montant_total": 95.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

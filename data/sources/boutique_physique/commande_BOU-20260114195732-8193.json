@@ -1,0 +1,41 @@
+{
+  "id_commande": "BOU-20260114195732-8193",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T19:57:32.429421",
+  "client": {
+    "nom": "Martine Lévy",
+    "email": null,
+    "telephone": "0489367285"
+  },
+  "boutique": "Khouribga Mall",
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 2,
+      "prix_unitaire": 450.0,
+      "prix_total": 900.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 2,
+      "prix_unitaire": 25.0,
+      "prix_total": 50.0
+    }
+  ],
+  "montant_total": 1190.0,
+  "statut": "confirmée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V458"
+}

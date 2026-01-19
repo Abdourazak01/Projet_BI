@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20251231134319-6951",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:43:19.160494",
+  "client": {
+    "nom": "Gilbert-Olivier Garcia",
+    "email": "erousset@example.org",
+    "telephone": "+33 (0)5 56 64 24 21"
+  },
+  "adresse_livraison": {
+    "rue": "721, boulevard de Fernandez",
+    "ville": "Fischer",
+    "code_postal": "90114",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 3,
+      "prix_unitaire": 1100.0,
+      "prix_total": 3300.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 3590.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire"
+}

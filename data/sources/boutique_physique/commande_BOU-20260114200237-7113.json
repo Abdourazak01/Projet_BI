@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260114200237-7113",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T20:02:37.197844",
+  "client": {
+    "nom": "Guillaume Gonzalez",
+    "email": "celinaperrot@example.com",
+    "telephone": "0382365032"
+  },
+  "boutique": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 1,
+      "prix_unitaire": 80.0,
+      "prix_total": 80.0
+    }
+  ],
+  "montant_total": 80.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V820"
+}

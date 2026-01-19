@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260116195330-8572",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:53:30.533178",
+  "client": {
+    "nom": "Margaud Guérin",
+    "email": "isabelle41@example.net",
+    "telephone": "02 50 48 40 46"
+  },
+  "boutique": "Khouribga Mall",
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    }
+  ],
+  "montant_total": 650.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V700"
+}

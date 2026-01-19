@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114172109-5846",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:09.378834",
+  "client": {
+    "nom": "Benoît Lecomte de la Dupuis",
+    "email": "sylviechevallier@example.org",
+    "telephone": "+33 (0)6 36 68 22 43"
+  },
+  "adresse_livraison": {
+    "rue": "2, chemin Paul Charpentier",
+    "ville": "Menard",
+    "code_postal": "07827",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    }
+  ],
+  "montant_total": 15.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

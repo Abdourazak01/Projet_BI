@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134911-3691",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:11.144319",
+  "client": {
+    "nom": "Juliette Camus",
+    "email": "qdupont@example.org",
+    "telephone": "+33 3 60 37 51 87"
+  },
+  "adresse_livraison": {
+    "rue": "chemin Seguin",
+    "ville": "Masse",
+    "code_postal": "41875",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 2,
+      "prix_unitaire": 150.0,
+      "prix_total": 300.0
+    }
+  ],
+  "montant_total": 300.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

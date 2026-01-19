@@ -1,0 +1,29 @@
+{
+  "id_commande": "BOU-20260116195314-7847",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:53:14.814313",
+  "client": {
+    "nom": "Laurent Dumont",
+    "email": "astridrobert@example.net",
+    "telephone": "+33 (0)5 49 85 54 67"
+  },
+  "boutique": "Khouribga Mall",
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    }
+  ],
+  "montant_total": 1950.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V914"
+}

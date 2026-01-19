@@ -1,0 +1,38 @@
+{
+  "id_commande": "MOB-20251231135550-5002",
+  "canal": "application_mobile",
+  "date_commande": "2025-12-31T13:55:50.630419",
+  "client": {
+    "nom": "Nath Millet",
+    "email": "hugues20@example.org",
+    "telephone": "0262372621",
+    "compte_client": "C57512"
+  },
+  "appareil": {
+    "type": "Android",
+    "version_app": "2.8.4",
+    "os_version": "12.3"
+  },
+  "adresse_livraison": {
+    "rue": "rue de Martin",
+    "ville": "Mahe",
+    "code_postal": "59790",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 2,
+      "prix_unitaire": 40.0,
+      "prix_total": 80.0
+    }
+  ],
+  "montant_total": 80.0,
+  "statut": "confirmée",
+  "mode_paiement": "mobile_paiement",
+  "option_livraison": "standard",
+  "frais_livraison": 0.0,
+  "notification_push": false,
+  "promo_code": "PROMO326"
+}

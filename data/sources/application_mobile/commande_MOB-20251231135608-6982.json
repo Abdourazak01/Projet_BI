@@ -1,0 +1,39 @@
+{
+  "id_commande": "MOB-20251231135608-6982",
+  "canal": "application_mobile",
+  "date_commande": "2025-12-31T13:56:08.509525",
+  "client": {
+    "nom": "Jacques Nicolas-Bouvet",
+    "email": "eleonore03@example.org",
+    "telephone": "+33 2 56 96 36 62",
+    "compte_client": "C74978"
+  },
+  "appareil": {
+    "type": "iPad",
+    "version_app": "3.0.9",
+    "os_version": "10.4"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 2,
+      "prix_unitaire": 950.0,
+      "prix_total": 1900.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 2,
+      "prix_unitaire": 15.0,
+      "prix_total": 30.0
+    }
+  ],
+  "montant_total": 1930.0,
+  "statut": "confirmée",
+  "mode_paiement": "wallet_app",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": false,
+  "promo_code": null
+}

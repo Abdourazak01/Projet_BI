@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20260114172118-1371",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:18.097357",
+  "client": {
+    "nom": "Françoise Parent",
+    "email": "victormaurice@example.com",
+    "telephone": "0344231608"
+  },
+  "adresse_livraison": {
+    "rue": "20, boulevard de Besson",
+    "ville": "Barthelemy",
+    "code_postal": "51844",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 2,
+      "prix_unitaire": 15.0,
+      "prix_total": 30.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 3,
+      "prix_unitaire": 40.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 150.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

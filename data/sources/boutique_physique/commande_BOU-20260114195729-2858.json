@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260114195729-2858",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T19:57:29.347704",
+  "client": {
+    "nom": "Paul Bailly",
+    "email": "cpichon@example.org",
+    "telephone": "01 75 69 96 61"
+  },
+  "boutique": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 2,
+      "prix_unitaire": 25.0,
+      "prix_total": 50.0
+    }
+  ],
+  "montant_total": 50.0,
+  "statut": "confirmée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V448"
+}

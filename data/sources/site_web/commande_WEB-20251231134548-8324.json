@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20251231134548-8324",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:45:48.651144",
+  "client": {
+    "nom": "Élise Godard",
+    "email": "chauvetlouise@example.com",
+    "telephone": "+33 3 72 55 49 05"
+  },
+  "adresse_livraison": {
+    "rue": "46, rue de Didier",
+    "ville": "DelaunayVille",
+    "code_postal": "54367",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 1,
+      "prix_unitaire": 40.0,
+      "prix_total": 40.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 1,
+      "prix_unitaire": 40.0,
+      "prix_total": 40.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 2,
+      "prix_unitaire": 120.0,
+      "prix_total": 240.0
+    }
+  ],
+  "montant_total": 320.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

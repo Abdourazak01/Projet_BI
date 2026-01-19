@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134917-4201",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:17.575343",
+  "client": {
+    "nom": "Christophe Renault-Barbe",
+    "email": "gregoire80@example.org",
+    "telephone": "0486175318"
+  },
+  "adresse_livraison": {
+    "rue": "66, boulevard Dupuy",
+    "ville": "Lacroix",
+    "code_postal": "53836",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 1,
+      "prix_unitaire": 35.0,
+      "prix_total": 35.0
+    }
+  ],
+  "montant_total": 35.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

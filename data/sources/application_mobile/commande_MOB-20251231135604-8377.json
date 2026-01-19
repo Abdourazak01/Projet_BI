@@ -1,0 +1,44 @@
+{
+  "id_commande": "MOB-20251231135604-8377",
+  "canal": "application_mobile",
+  "date_commande": "2025-12-31T13:56:04.832698",
+  "client": {
+    "nom": "Joseph Pruvost",
+    "email": "brunelaime@example.org",
+    "telephone": "04 98 81 30 22",
+    "compte_client": "C12071"
+  },
+  "appareil": {
+    "type": "Tablette Android",
+    "version_app": "2.8.4",
+    "os_version": "16.7"
+  },
+  "adresse_livraison": {
+    "rue": "68, chemin Leclercq",
+    "ville": "Toussaintboeuf",
+    "code_postal": "35475",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 2,
+      "prix_unitaire": 120.0,
+      "prix_total": 240.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 3,
+      "prix_unitaire": 60.0,
+      "prix_total": 180.0
+    }
+  ],
+  "montant_total": 420.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "point_relais",
+  "frais_livraison": 29.99,
+  "notification_push": true,
+  "promo_code": null
+}

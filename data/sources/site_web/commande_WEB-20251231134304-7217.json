@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134304-7217",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:43:04.886070",
+  "client": {
+    "nom": "Amélie Bourgeois",
+    "email": "charlottemarchand@example.net",
+    "telephone": "0480505047"
+  },
+  "adresse_livraison": {
+    "rue": "9, boulevard de Grondin",
+    "ville": "Chrétien-sur-Mer",
+    "code_postal": "45652",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 1,
+      "prix_unitaire": 1100.0,
+      "prix_total": 1100.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 3,
+      "prix_unitaire": 1200.0,
+      "prix_total": 3600.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 3,
+      "prix_unitaire": 40.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 6020.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

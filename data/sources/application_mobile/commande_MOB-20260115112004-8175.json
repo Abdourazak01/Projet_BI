@@ -1,0 +1,44 @@
+{
+  "id_commande": "MOB-20260115112004-8175",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:20:04.119135",
+  "client": {
+    "nom": "Marcelle Daniel",
+    "email": "charlesdelahaye@example.net",
+    "telephone": "0518130130",
+    "compte_client": "C56961"
+  },
+  "appareil": {
+    "type": "Tablette Android",
+    "version_app": "3.1.5",
+    "os_version": "15.5"
+  },
+  "adresse_livraison": {
+    "rue": "avenue de Dupuis",
+    "ville": "Lefebvre-sur-Blin",
+    "code_postal": "53506",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 1,
+      "prix_unitaire": 150.0,
+      "prix_total": 150.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 1,
+      "prix_unitaire": 35.0,
+      "prix_total": 35.0
+    }
+  ],
+  "montant_total": 185.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "point_relais",
+  "frais_livraison": 0.0,
+  "notification_push": false,
+  "promo_code": "PROMO154"
+}

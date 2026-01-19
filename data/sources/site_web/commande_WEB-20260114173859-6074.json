@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114173859-6074",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:38:59.481376",
+  "client": {
+    "nom": "Marc Philippe",
+    "email": "sophie72@example.com",
+    "telephone": "+33 1 42 41 63 01"
+  },
+  "adresse_livraison": {
+    "rue": "rue de Blin",
+    "ville": "Lemaître-la-Forêt",
+    "code_postal": "44934",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 2,
+      "prix_unitaire": 80.0,
+      "prix_total": 160.0
+    }
+  ],
+  "montant_total": 160.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

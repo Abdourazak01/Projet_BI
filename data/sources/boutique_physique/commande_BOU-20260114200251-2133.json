@@ -1,0 +1,35 @@
+{
+  "id_commande": "BOU-20260114200251-2133",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T20:02:51.767159",
+  "client": {
+    "nom": "André Rossi",
+    "email": null,
+    "telephone": "0299234932"
+  },
+  "boutique": "Khouribga Centre",
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 3,
+      "prix_unitaire": 450.0,
+      "prix_total": 1350.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 2,
+      "prix_unitaire": 950.0,
+      "prix_total": 1900.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    }
+  ],
+  "montant_total": 3265.0,
+  "statut": "confirmée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V329"
+}

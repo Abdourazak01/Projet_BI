@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20260114173906-8586",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:06.594760",
+  "client": {
+    "nom": "Charles Delorme-Carpentier",
+    "email": "frederiqueleconte@example.com",
+    "telephone": "0565769443"
+  },
+  "adresse_livraison": {
+    "rue": "44, rue de Pierre",
+    "ville": "Michel",
+    "code_postal": "86231",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    }
+  ],
+  "montant_total": 1650.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20260114173911-5153",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:11.655382",
+  "client": {
+    "nom": "Élodie Bailly",
+    "email": "itessier@example.com",
+    "telephone": "0390040454"
+  },
+  "adresse_livraison": {
+    "rue": "2, rue de Torres",
+    "ville": "Sainte Alexandredan",
+    "code_postal": "97397",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 3,
+      "prix_unitaire": 950.0,
+      "prix_total": 2850.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 1,
+      "prix_unitaire": 35.0,
+      "prix_total": 35.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 3,
+      "prix_unitaire": 350.0,
+      "prix_total": 1050.0
+    }
+  ],
+  "montant_total": 5135.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

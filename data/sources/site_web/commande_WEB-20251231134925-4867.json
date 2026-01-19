@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134925-4867",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:25.357406",
+  "client": {
+    "nom": "Hortense Lebreton",
+    "email": "ldelannoy@example.org",
+    "telephone": "04 98 62 57 21"
+  },
+  "adresse_livraison": {
+    "rue": "7, boulevard Thierry Lebon",
+    "ville": "Jacques-sur-Tessier",
+    "code_postal": "94120",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 3,
+      "prix_unitaire": 80.0,
+      "prix_total": 240.0
+    }
+  ],
+  "montant_total": 240.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

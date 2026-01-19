@@ -1,0 +1,38 @@
+{
+  "id_commande": "MOB-20260114195819-6202",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T19:58:19.076524",
+  "client": {
+    "nom": "Roger Weiss",
+    "email": "marinefleury@example.net",
+    "telephone": "02 53 42 65 45",
+    "compte_client": "C27114"
+  },
+  "appareil": {
+    "type": "iPhone",
+    "version_app": "2.8.4",
+    "os_version": "16.6"
+  },
+  "adresse_livraison": {
+    "rue": "52, rue de Gomes",
+    "ville": "Rémy",
+    "code_postal": "11975",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 2,
+      "prix_unitaire": 950.0,
+      "prix_total": 1900.0
+    }
+  ],
+  "montant_total": 1900.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "express",
+  "frais_livraison": 19.99,
+  "notification_push": false,
+  "promo_code": null
+}

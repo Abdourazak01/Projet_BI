@@ -1,0 +1,35 @@
+{
+  "id_commande": "BOU-20260114195740-8853",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T19:57:40.426458",
+  "client": {
+    "nom": "Gilles Jean",
+    "email": "david07@example.org",
+    "telephone": "+33 2 62 42 69 48"
+  },
+  "boutique": "Marrakech Gueliz",
+  "produits": [
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    }
+  ],
+  "montant_total": 3415.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V407"
+}

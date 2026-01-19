@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134612-9762",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:46:12.021989",
+  "client": {
+    "nom": "Margot Marchand",
+    "email": "aimee94@example.com",
+    "telephone": "+33 6 44 89 32 81"
+  },
+  "adresse_livraison": {
+    "rue": "39, boulevard de Hebert",
+    "ville": "Hamel",
+    "code_postal": "14988",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 2,
+      "prix_unitaire": 80.0,
+      "prix_total": 160.0
+    }
+  ],
+  "montant_total": 160.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

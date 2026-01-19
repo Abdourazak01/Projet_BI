@@ -1,0 +1,35 @@
+{
+  "id_commande": "BOU-20260114173927-2036",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T17:39:27.148186",
+  "client": {
+    "nom": "Anastasie Laporte",
+    "email": "plegros@example.org",
+    "telephone": "01 74 09 87 27"
+  },
+  "boutique": "Khouribga Mall",
+  "produits": [
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 2,
+      "prix_unitaire": 40.0,
+      "prix_total": 80.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 3,
+      "prix_unitaire": 350.0,
+      "prix_total": 1050.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 3,
+      "prix_unitaire": 1100.0,
+      "prix_total": 3300.0
+    }
+  ],
+  "montant_total": 4430.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V385"
+}

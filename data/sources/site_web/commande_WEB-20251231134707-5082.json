@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134707-5082",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:47:07.474371",
+  "client": {
+    "nom": "Adrienne Leroy",
+    "email": "jlevy@example.org",
+    "telephone": "+33 (0)4 69 97 03 82"
+  },
+  "adresse_livraison": {
+    "rue": "356, boulevard de Bouchet",
+    "ville": "Lacombe",
+    "code_postal": "93481",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 2,
+      "prix_unitaire": 25.0,
+      "prix_total": 50.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 2,
+      "prix_unitaire": 120.0,
+      "prix_total": 240.0
+    }
+  ],
+  "montant_total": 290.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

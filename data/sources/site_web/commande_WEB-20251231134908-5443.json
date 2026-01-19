@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134908-5443",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:08.790852",
+  "client": {
+    "nom": "Grégoire Coulon",
+    "email": "adeschamps@example.net",
+    "telephone": "+33 (0)4 71 55 14 09"
+  },
+  "adresse_livraison": {
+    "rue": "21, avenue de Fischer",
+    "ville": "Chrétien",
+    "code_postal": "23566",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 120.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

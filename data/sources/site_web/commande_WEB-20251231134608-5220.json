@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134608-5220",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:46:08.993883",
+  "client": {
+    "nom": "Océane Lévy",
+    "email": "bertrandphilippine@example.net",
+    "telephone": "+33 5 59 11 59 61"
+  },
+  "adresse_livraison": {
+    "rue": "813, boulevard de Samson",
+    "ville": "Rémy-les-Bains",
+    "code_postal": "76182",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 2,
+      "prix_unitaire": 950.0,
+      "prix_total": 1900.0
+    }
+  ],
+  "montant_total": 1900.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

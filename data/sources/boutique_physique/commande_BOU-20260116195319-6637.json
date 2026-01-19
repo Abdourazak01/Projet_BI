@@ -1,0 +1,29 @@
+{
+  "id_commande": "BOU-20260116195319-6637",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:53:19.236598",
+  "client": {
+    "nom": "Colette Lévêque",
+    "email": "parentmarc@example.net",
+    "telephone": "+33 (0)3 70 06 88 43"
+  },
+  "boutique": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 2,
+      "prix_unitaire": 950.0,
+      "prix_total": 1900.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 1,
+      "prix_unitaire": 1100.0,
+      "prix_total": 1100.0
+    }
+  ],
+  "montant_total": 3000.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V508"
+}

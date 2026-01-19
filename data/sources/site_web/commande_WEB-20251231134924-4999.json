@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134924-4999",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:24.559773",
+  "client": {
+    "nom": "Alexandria Philippe",
+    "email": "elisemoulin@example.net",
+    "telephone": "+33 (0)5 56 91 36 80"
+  },
+  "adresse_livraison": {
+    "rue": "95, boulevard Lelièvre",
+    "ville": "MartinBourg",
+    "code_postal": "75359",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 1,
+      "prix_unitaire": 150.0,
+      "prix_total": 150.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 1,
+      "prix_unitaire": 80.0,
+      "prix_total": 80.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    }
+  ],
+  "montant_total": 2780.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

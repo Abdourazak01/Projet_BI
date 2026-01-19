@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134323-6935",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:43:23.008823",
+  "client": {
+    "nom": "Robert de Laurent",
+    "email": "gimenezzacharie@example.com",
+    "telephone": "02 58 68 92 95"
+  },
+  "adresse_livraison": {
+    "rue": "8, rue Amélie Costa",
+    "ville": "François-sur-Dupré",
+    "code_postal": "63581",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 2,
+      "prix_unitaire": 1200.0,
+      "prix_total": 2400.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 3,
+      "prix_unitaire": 80.0,
+      "prix_total": 240.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 3,
+      "prix_unitaire": 120.0,
+      "prix_total": 360.0
+    }
+  ],
+  "montant_total": 3170.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

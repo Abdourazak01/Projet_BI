@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134443-8059",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:44:43.473821",
+  "client": {
+    "nom": "François Millet",
+    "email": "bphilippe@example.org",
+    "telephone": "+33 3 63 35 57 74"
+  },
+  "adresse_livraison": {
+    "rue": "653, chemin Frédéric Verdier",
+    "ville": "Roy",
+    "code_postal": "18540",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 2,
+      "prix_unitaire": 25.0,
+      "prix_total": 50.0
+    }
+  ],
+  "montant_total": 50.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

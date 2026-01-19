@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134754-3514",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:47:54.223217",
+  "client": {
+    "nom": "Lucas Maillard",
+    "email": "blancaugustin@example.com",
+    "telephone": "+33 (0)1 45 38 77 15"
+  },
+  "adresse_livraison": {
+    "rue": "67, rue de Grondin",
+    "ville": "Chevalier",
+    "code_postal": "90854",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 1,
+      "prix_unitaire": 80.0,
+      "prix_total": 80.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 2,
+      "prix_unitaire": 35.0,
+      "prix_total": 70.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 3,
+      "prix_unitaire": 35.0,
+      "prix_total": 105.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 1,
+      "prix_unitaire": 25.0,
+      "prix_total": 25.0
+    }
+  ],
+  "montant_total": 280.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114173851-2199",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:38:51.790079",
+  "client": {
+    "nom": "Dorothée Hamon",
+    "email": "jean61@example.net",
+    "telephone": "+33 (0)4 38 73 24 67"
+  },
+  "adresse_livraison": {
+    "rue": "1, avenue Masson",
+    "ville": "Saint Camille",
+    "code_postal": "24809",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    }
+  ],
+  "montant_total": 1300.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

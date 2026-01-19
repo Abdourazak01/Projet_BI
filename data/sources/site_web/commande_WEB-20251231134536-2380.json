@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134536-2380",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:45:36.101991",
+  "client": {
+    "nom": "Adèle-Agnès Couturier",
+    "email": "celina91@example.org",
+    "telephone": "0363326145"
+  },
+  "adresse_livraison": {
+    "rue": "48, chemin François",
+    "ville": "Dijoux",
+    "code_postal": "67215",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 3,
+      "prix_unitaire": 25.0,
+      "prix_total": 75.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 2,
+      "prix_unitaire": 40.0,
+      "prix_total": 80.0
+    }
+  ],
+  "montant_total": 155.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

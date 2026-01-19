@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20260114173905-4810",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:05.823104",
+  "client": {
+    "nom": "Marc Robin",
+    "email": "claire83@example.net",
+    "telephone": "+33 (0)3 84 86 46 96"
+  },
+  "adresse_livraison": {
+    "rue": "152, avenue Christophe Lévy",
+    "ville": "Blanchard-sur-Mer",
+    "code_postal": "74224",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 1,
+      "prix_unitaire": 35.0,
+      "prix_total": 35.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    }
+  ],
+  "montant_total": 1395.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

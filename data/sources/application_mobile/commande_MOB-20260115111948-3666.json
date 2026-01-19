@@ -1,0 +1,50 @@
+{
+  "id_commande": "MOB-20260115111948-3666",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:19:48.445617",
+  "client": {
+    "nom": "Pénélope du Guillet",
+    "email": "agregoire@example.org",
+    "telephone": "+33 3 55 56 24 17",
+    "compte_client": "C86122"
+  },
+  "appareil": {
+    "type": "Android",
+    "version_app": "2.8.4",
+    "os_version": "16.3"
+  },
+  "adresse_livraison": {
+    "rue": "69, rue Agathe Bonneau",
+    "ville": "Saint William",
+    "code_postal": "74497",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 1,
+      "prix_unitaire": 450.0,
+      "prix_total": 450.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 1,
+      "prix_unitaire": 150.0,
+      "prix_total": 150.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 3,
+      "prix_unitaire": 1100.0,
+      "prix_total": 3300.0
+    }
+  ],
+  "montant_total": 3900.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "express",
+  "frais_livraison": 29.99,
+  "notification_push": true,
+  "promo_code": null
+}

@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20251231134941-1605",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:41.061787",
+  "client": {
+    "nom": "Alexandria Leclercq",
+    "email": "pbaron@example.com",
+    "telephone": "0442888413"
+  },
+  "adresse_livraison": {
+    "rue": "417, boulevard Sabine Olivier",
+    "ville": "Moulin-sur-Mahe",
+    "code_postal": "88811",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 2,
+      "prix_unitaire": 40.0,
+      "prix_total": 80.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 1,
+      "prix_unitaire": 950.0,
+      "prix_total": 950.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 1,
+      "prix_unitaire": 80.0,
+      "prix_total": 80.0
+    }
+  ],
+  "montant_total": 1110.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

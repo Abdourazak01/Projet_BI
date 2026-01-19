@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134937-4954",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:37.082114",
+  "client": {
+    "nom": "Valentine Laine",
+    "email": "virginieperrot@example.org",
+    "telephone": "+33 5 18 69 27 06"
+  },
+  "adresse_livraison": {
+    "rue": "328, chemin Muller",
+    "ville": "Ferrand-sur-Garnier",
+    "code_postal": "46964",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    }
+  ],
+  "montant_total": 1420.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

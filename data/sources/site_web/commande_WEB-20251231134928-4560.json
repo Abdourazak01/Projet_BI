@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134928-4560",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:28.135310",
+  "client": {
+    "nom": "Renée Leconte",
+    "email": "manon44@example.net",
+    "telephone": "+33 6 95 11 29 25"
+  },
+  "adresse_livraison": {
+    "rue": "46, boulevard Bouchet",
+    "ville": "Camusboeuf",
+    "code_postal": "40656",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 2,
+      "prix_unitaire": 25.0,
+      "prix_total": 50.0
+    }
+  ],
+  "montant_total": 50.0,
+  "statut": "annulée",
+  "mode_paiement": "paypal"
+}

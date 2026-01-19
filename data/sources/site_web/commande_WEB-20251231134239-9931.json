@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134239-9931",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:42:39.496250",
+  "client": {
+    "nom": "Théophile Caron",
+    "email": "agnesdelattre@example.net",
+    "telephone": "+33 7 79 10 57 76"
+  },
+  "adresse_livraison": {
+    "rue": "152, rue de Duval",
+    "ville": "Verdierboeuf",
+    "code_postal": "12520",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 3,
+      "prix_unitaire": 350.0,
+      "prix_total": 1050.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 3,
+      "prix_unitaire": 150.0,
+      "prix_total": 450.0
+    }
+  ],
+  "montant_total": 1500.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

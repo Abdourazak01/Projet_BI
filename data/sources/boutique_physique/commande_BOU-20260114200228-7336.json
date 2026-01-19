@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260114200228-7336",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T20:02:28.697199",
+  "client": {
+    "nom": "Honoré Gonzalez-Boulanger",
+    "email": "guerinpaul@example.com",
+    "telephone": null
+  },
+  "boutique": "Casablanca Marina",
+  "produits": [
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 120.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V842"
+}

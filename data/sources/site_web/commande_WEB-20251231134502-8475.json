@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134502-8475",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:45:02.750061",
+  "client": {
+    "nom": "Emmanuel de Le Gall",
+    "email": "mailletjulie@example.org",
+    "telephone": "03 26 73 44 91"
+  },
+  "adresse_livraison": {
+    "rue": "7, chemin Gay",
+    "ville": "Foucher",
+    "code_postal": "79802",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 2,
+      "prix_unitaire": 80.0,
+      "prix_total": 160.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 1,
+      "prix_unitaire": 450.0,
+      "prix_total": 450.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 2,
+      "prix_unitaire": 40.0,
+      "prix_total": 80.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    }
+  ],
+  "montant_total": 860.0,
+  "statut": "annulée",
+  "mode_paiement": "paypal"
+}

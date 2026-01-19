@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134455-5559",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:44:55.006835",
+  "client": {
+    "nom": "René Becker-Martinez",
+    "email": "bigotcharles@example.com",
+    "telephone": "03 70 65 27 85"
+  },
+  "adresse_livraison": {
+    "rue": "14, chemin de Berger",
+    "ville": "Mallet",
+    "code_postal": "97369",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 1,
+      "prix_unitaire": 150.0,
+      "prix_total": 150.0
+    }
+  ],
+  "montant_total": 150.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

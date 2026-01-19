@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134910-8099",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:10.147139",
+  "client": {
+    "nom": "François Berthelot",
+    "email": "crodriguez@example.net",
+    "telephone": "+33 (0)4 94 36 43 65"
+  },
+  "adresse_livraison": {
+    "rue": "chemin Fernandes",
+    "ville": "Martinez-les-Bains",
+    "code_postal": "95345",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 2,
+      "prix_unitaire": 35.0,
+      "prix_total": 70.0
+    }
+  ],
+  "montant_total": 85.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114173857-4983",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:38:57.698103",
+  "client": {
+    "nom": "Guillaume Descamps",
+    "email": "diaspaul@example.net",
+    "telephone": "+33 4 38 24 00 76"
+  },
+  "adresse_livraison": {
+    "rue": "rue Agnès Maury",
+    "ville": "Charrier",
+    "code_postal": "80771",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    }
+  ],
+  "montant_total": 1300.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20260114172119-9022",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:19.749179",
+  "client": {
+    "nom": "Anne Pinto-Klein",
+    "email": "allardeugene@example.com",
+    "telephone": "+33 3 66 49 20 19"
+  },
+  "adresse_livraison": {
+    "rue": "boulevard de Thierry",
+    "ville": "Lebrun",
+    "code_postal": "01996",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 3,
+      "prix_unitaire": 450.0,
+      "prix_total": 1350.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 3,
+      "prix_unitaire": 350.0,
+      "prix_total": 1050.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 2,
+      "prix_unitaire": 80.0,
+      "prix_total": 160.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 3,
+      "prix_unitaire": 35.0,
+      "prix_total": 105.0
+    }
+  ],
+  "montant_total": 2665.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

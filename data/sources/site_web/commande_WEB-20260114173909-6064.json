@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20260114173909-6064",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:09.882848",
+  "client": {
+    "nom": "Sophie Marion Le Bodin",
+    "email": "lejeunemichelle@example.com",
+    "telephone": "+33 2 52 60 54 77"
+  },
+  "adresse_livraison": {
+    "rue": "2, chemin Élisabeth Baudry",
+    "ville": "Guillotnec",
+    "code_postal": "26300",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 2,
+      "prix_unitaire": 40.0,
+      "prix_total": 80.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 2,
+      "prix_unitaire": 25.0,
+      "prix_total": 50.0
+    }
+  ],
+  "montant_total": 130.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

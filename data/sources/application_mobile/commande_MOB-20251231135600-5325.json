@@ -1,0 +1,38 @@
+{
+  "id_commande": "MOB-20251231135600-5325",
+  "canal": "application_mobile",
+  "date_commande": "2025-12-31T13:56:00.781437",
+  "client": {
+    "nom": "Paul Bruneau-Pasquier",
+    "email": "amarie@example.com",
+    "telephone": "0369842147",
+    "compte_client": "C55649"
+  },
+  "appareil": {
+    "type": "iPad",
+    "version_app": "3.2.1",
+    "os_version": "11.1"
+  },
+  "adresse_livraison": {
+    "rue": "2, rue Giraud",
+    "ville": "Jacob-sur-Mer",
+    "code_postal": "15305",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    }
+  ],
+  "montant_total": 700.0,
+  "statut": "annulée",
+  "mode_paiement": "mobile_paiement",
+  "option_livraison": "point_relais",
+  "frais_livraison": 29.99,
+  "notification_push": true,
+  "promo_code": null
+}

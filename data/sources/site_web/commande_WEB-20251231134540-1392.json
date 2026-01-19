@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134540-1392",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:45:40.010304",
+  "client": {
+    "nom": "Virginie-Clémence Dias",
+    "email": "augustecoste@example.com",
+    "telephone": "06 37 63 82 33"
+  },
+  "adresse_livraison": {
+    "rue": "98, rue de Gauthier",
+    "ville": "Sainte Diane",
+    "code_postal": "72764",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 1,
+      "prix_unitaire": 25.0,
+      "prix_total": 25.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 3,
+      "prix_unitaire": 1100.0,
+      "prix_total": 3300.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    }
+  ],
+  "montant_total": 4695.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

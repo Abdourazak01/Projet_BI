@@ -1,0 +1,56 @@
+{
+  "id_commande": "MOB-20260114175841-9554",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T17:58:41.496307",
+  "client": {
+    "nom": "Mathilde-Renée Valentin",
+    "email": "lombardmargaret@example.com",
+    "telephone": "0257433059",
+    "compte_client": "C91455"
+  },
+  "appareil": {
+    "type": "iPhone",
+    "version_app": "3.2.1",
+    "os_version": "10.6"
+  },
+  "adresse_livraison": {
+    "rue": "68, chemin de Lebreton",
+    "ville": "Vallée-la-Forêt",
+    "code_postal": "60653",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 2,
+      "prix_unitaire": 450.0,
+      "prix_total": 900.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 2,
+      "prix_unitaire": 150.0,
+      "prix_total": 300.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 3,
+      "prix_unitaire": 150.0,
+      "prix_total": 450.0
+    }
+  ],
+  "montant_total": 3850.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "standard",
+  "frais_livraison": 19.99,
+  "notification_push": false,
+  "promo_code": null
+}

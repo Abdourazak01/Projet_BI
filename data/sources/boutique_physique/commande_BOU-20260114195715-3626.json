@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260114195715-3626",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T19:57:15.201305",
+  "client": {
+    "nom": "Véronique Prévost",
+    "email": "paulette51@example.com",
+    "telephone": null
+  },
+  "boutique": "Khouribga Centre",
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 3,
+      "prix_unitaire": 80.0,
+      "prix_total": 240.0
+    }
+  ],
+  "montant_total": 240.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V358"
+}

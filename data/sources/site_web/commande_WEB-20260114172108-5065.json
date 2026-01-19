@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114172108-5065",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:08.212056",
+  "client": {
+    "nom": "Émile Richard",
+    "email": "cbrunel@example.com",
+    "telephone": "04 13 17 77 26"
+  },
+  "adresse_livraison": {
+    "rue": "31, rue de Moreau",
+    "ville": "Daniel",
+    "code_postal": "85288",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    }
+  ],
+  "montant_total": 170.0,
+  "statut": "annulée",
+  "mode_paiement": "paypal"
+}

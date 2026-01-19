@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134808-7390",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:48:08.591494",
+  "client": {
+    "nom": "Jacques Jacob",
+    "email": "danielle08@example.net",
+    "telephone": "+33 (0)3 67 64 36 49"
+  },
+  "adresse_livraison": {
+    "rue": "boulevard Lebreton",
+    "ville": "Lagarde-sur-Laurent",
+    "code_postal": "19154",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 1,
+      "prix_unitaire": 950.0,
+      "prix_total": 950.0
+    }
+  ],
+  "montant_total": 1070.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

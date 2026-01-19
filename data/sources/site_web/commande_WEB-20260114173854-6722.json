@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20260114173854-6722",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:38:54.867739",
+  "client": {
+    "nom": "Grégoire Joly",
+    "email": "claudedevaux@example.com",
+    "telephone": "02 41 57 95 10"
+  },
+  "adresse_livraison": {
+    "rue": "276, rue Suzanne Delannoy",
+    "ville": "Pineau",
+    "code_postal": "66217",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 3,
+      "prix_unitaire": 350.0,
+      "prix_total": 1050.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 3,
+      "prix_unitaire": 450.0,
+      "prix_total": 1350.0
+    }
+  ],
+  "montant_total": 2400.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

@@ -1,0 +1,29 @@
+{
+  "id_commande": "BOU-20260114195704-3421",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T19:57:04.182694",
+  "client": {
+    "nom": "Monique Leconte",
+    "email": "patrickhebert@example.org",
+    "telephone": "+33 4 77 55 68 37"
+  },
+  "boutique": "Marrakech Gueliz",
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    }
+  ],
+  "montant_total": 1470.0,
+  "statut": "confirmée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V698"
+}

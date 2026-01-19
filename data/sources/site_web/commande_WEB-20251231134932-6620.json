@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20251231134932-6620",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:32.226015",
+  "client": {
+    "nom": "Étienne Duhamel",
+    "email": "lcharpentier@example.com",
+    "telephone": "01 81 04 93 84"
+  },
+  "adresse_livraison": {
+    "rue": "93, chemin Lévy",
+    "ville": "Saint Mathilde-la-Forêt",
+    "code_postal": "39932",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 1,
+      "prix_unitaire": 25.0,
+      "prix_total": 25.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 1,
+      "prix_unitaire": 450.0,
+      "prix_total": 450.0
+    }
+  ],
+  "montant_total": 825.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

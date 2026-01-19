@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20251231134315-7400",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:43:15.683425",
+  "client": {
+    "nom": "Alexandrie Salmon Le Hervé",
+    "email": "alexandre56@example.net",
+    "telephone": "0555242373"
+  },
+  "adresse_livraison": {
+    "rue": "49, rue Robert Millet",
+    "ville": "Saint Alexandre-la-Forêt",
+    "code_postal": "55451",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 1,
+      "prix_unitaire": 950.0,
+      "prix_total": 950.0
+    }
+  ],
+  "montant_total": 1665.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20260114173859-4549",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:38:59.048159",
+  "client": {
+    "nom": "Roland du Deschamps",
+    "email": "moulinmadeleine@example.org",
+    "telephone": "+33 (0)1 74 08 38 59"
+  },
+  "adresse_livraison": {
+    "rue": "6, avenue Thomas Hamon",
+    "ville": "Vaillant",
+    "code_postal": "41185",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 3,
+      "prix_unitaire": 650.0,
+      "prix_total": 1950.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 2,
+      "prix_unitaire": 950.0,
+      "prix_total": 1900.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 2,
+      "prix_unitaire": 85.0,
+      "prix_total": 170.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 4140.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

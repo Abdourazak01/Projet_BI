@@ -1,0 +1,41 @@
+{
+  "id_commande": "BOU-20260114175802-1984",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T17:58:02.537749",
+  "client": {
+    "nom": "Joseph Gillet",
+    "email": "rouxmatthieu@example.net",
+    "telephone": null
+  },
+  "boutique": "Khouribga Centre",
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 3,
+      "prix_unitaire": 950.0,
+      "prix_total": 2850.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 2,
+      "prix_unitaire": 35.0,
+      "prix_total": 70.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    }
+  ],
+  "montant_total": 4870.0,
+  "statut": "annulée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V150"
+}

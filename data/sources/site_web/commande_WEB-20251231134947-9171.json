@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134947-9171",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:47.809871",
+  "client": {
+    "nom": "Camille Sanchez",
+    "email": "suzannegaudin@example.com",
+    "telephone": "0534764567"
+  },
+  "adresse_livraison": {
+    "rue": "rue Alain Mallet",
+    "ville": "Faivre",
+    "code_postal": "20567",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 3,
+      "prix_unitaire": 35.0,
+      "prix_total": 105.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 2,
+      "prix_unitaire": 1200.0,
+      "prix_total": 2400.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    }
+  ],
+  "montant_total": 2535.0,
+  "statut": "annulée",
+  "mode_paiement": "virement"
+}

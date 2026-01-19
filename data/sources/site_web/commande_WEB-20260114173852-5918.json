@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20260114173852-5918",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:38:52.663190",
+  "client": {
+    "nom": "Laurent Potier",
+    "email": "mauriceparis@example.com",
+    "telephone": "+33 (0)3 84 45 44 40"
+  },
+  "adresse_livraison": {
+    "rue": "807, rue Zacharie Berthelot",
+    "ville": "Boulanger-sur-Lejeune",
+    "code_postal": "70274",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    }
+  ],
+  "montant_total": 1460.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

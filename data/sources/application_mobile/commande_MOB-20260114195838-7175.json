@@ -1,0 +1,33 @@
+{
+  "id_commande": "MOB-20260114195838-7175",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T19:58:38.163026",
+  "client": {
+    "nom": "Maryse Teixeira",
+    "email": "jeanne02@example.com",
+    "telephone": "0489699435",
+    "compte_client": "C64910"
+  },
+  "appareil": {
+    "type": "iPhone",
+    "version_app": "3.0.9",
+    "os_version": "10.0"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 1,
+      "prix_unitaire": 950.0,
+      "prix_total": 950.0
+    }
+  ],
+  "montant_total": 950.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": true,
+  "promo_code": null
+}

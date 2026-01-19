@@ -1,0 +1,44 @@
+{
+  "id_commande": "MOB-20260114195803-9490",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T19:58:03.804287",
+  "client": {
+    "nom": "Hugues Humbert",
+    "email": "richard80@example.org",
+    "telephone": "+33 (0)5 47 00 74 02",
+    "compte_client": "C49462"
+  },
+  "appareil": {
+    "type": "Android",
+    "version_app": "2.8.4",
+    "os_version": "13.8"
+  },
+  "adresse_livraison": {
+    "rue": "89, chemin de Boulanger",
+    "ville": "Turpinnec",
+    "code_postal": "39130",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 1,
+      "prix_unitaire": 950.0,
+      "prix_total": 950.0
+    }
+  ],
+  "montant_total": 3150.0,
+  "statut": "confirmée",
+  "mode_paiement": "wallet_app",
+  "option_livraison": "point_relais",
+  "frais_livraison": 9.99,
+  "notification_push": false,
+  "promo_code": "PROMO895"
+}

@@ -1,0 +1,41 @@
+{
+  "id_commande": "BOU-20260116195409-5417",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:54:09.732058",
+  "client": {
+    "nom": "Andrée du Bodin",
+    "email": null,
+    "telephone": null
+  },
+  "boutique": "Marrakech Gueliz",
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 1,
+      "prix_unitaire": 1100.0,
+      "prix_total": 1100.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 1,
+      "prix_unitaire": 15.0,
+      "prix_total": 15.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 3,
+      "prix_unitaire": 85.0,
+      "prix_total": 255.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 3,
+      "prix_unitaire": 120.0,
+      "prix_total": 360.0
+    }
+  ],
+  "montant_total": 1730.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V815"
+}

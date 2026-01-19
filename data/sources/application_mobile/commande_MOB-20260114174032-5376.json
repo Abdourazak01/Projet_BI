@@ -1,0 +1,38 @@
+{
+  "id_commande": "MOB-20260114174032-5376",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T17:40:32.370567",
+  "client": {
+    "nom": "Luc Delannoy",
+    "email": "kblanchet@example.org",
+    "telephone": "+33 (0)1 55 93 36 94",
+    "compte_client": "C11669"
+  },
+  "appareil": {
+    "type": "iPad",
+    "version_app": "3.0.9",
+    "os_version": "16.2"
+  },
+  "adresse_livraison": {
+    "rue": "59, boulevard Costa",
+    "ville": "Raymond",
+    "code_postal": "60166",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 120.0,
+  "statut": "confirmée",
+  "mode_paiement": "wallet_app",
+  "option_livraison": "point_relais",
+  "frais_livraison": 9.99,
+  "notification_push": false,
+  "promo_code": "PROMO557"
+}

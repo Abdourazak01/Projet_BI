@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20251231135035-1973",
+  "canal": "boutique_physique",
+  "date_commande": "2025-12-31T13:50:35.122204",
+  "client": {
+    "nom": "Éric-Christophe Leroy",
+    "email": "parentanouk@example.com",
+    "telephone": "04 63 71 86 95"
+  },
+  "boutique": "Khouribga Mall",
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 3,
+      "prix_unitaire": 85.0,
+      "prix_total": 255.0
+    }
+  ],
+  "montant_total": 255.0,
+  "statut": "confirmée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V660"
+}

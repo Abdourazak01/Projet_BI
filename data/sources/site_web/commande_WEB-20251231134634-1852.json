@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134634-1852",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:46:34.122265",
+  "client": {
+    "nom": "Louis Maury",
+    "email": "eboulay@example.org",
+    "telephone": "0158178520"
+  },
+  "adresse_livraison": {
+    "rue": "chemin Olivier",
+    "ville": "Sainte Olivier",
+    "code_postal": "24846",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 1,
+      "prix_unitaire": 85.0,
+      "prix_total": 85.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 2,
+      "prix_unitaire": 15.0,
+      "prix_total": 30.0
+    }
+  ],
+  "montant_total": 115.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire"
+}

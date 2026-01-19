@@ -1,0 +1,56 @@
+{
+  "id_commande": "MOB-20260115112023-3705",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:20:23.910462",
+  "client": {
+    "nom": "Sylvie Lemoine",
+    "email": "xvallet@example.net",
+    "telephone": "+33 (0)1 44 71 04 81",
+    "compte_client": "C26957"
+  },
+  "appareil": {
+    "type": "Android",
+    "version_app": "3.2.1",
+    "os_version": "17.9"
+  },
+  "adresse_livraison": {
+    "rue": "6, rue de Royer",
+    "ville": "Techer-sur-Le Gall",
+    "code_postal": "09642",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 2,
+      "prix_unitaire": 35.0,
+      "prix_total": 70.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 2,
+      "prix_unitaire": 450.0,
+      "prix_total": 900.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    }
+  ],
+  "montant_total": 2270.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "express",
+  "frais_livraison": 0.0,
+  "notification_push": true,
+  "promo_code": "PROMO275"
+}

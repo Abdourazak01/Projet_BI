@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20260114172120-7704",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:20.468388",
+  "client": {
+    "nom": "Sébastien-Raymond Gimenez",
+    "email": "rousselrene@example.net",
+    "telephone": "+33 (0)7 37 96 41 32"
+  },
+  "adresse_livraison": {
+    "rue": "51, avenue de Fernandes",
+    "ville": "Sainte Corinne",
+    "code_postal": "78871",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 2,
+      "prix_unitaire": 1200.0,
+      "prix_total": 2400.0
+    },
+    {
+      "nom_produit": "Adaptateur HDMI",
+      "quantite": 3,
+      "prix_unitaire": 25.0,
+      "prix_total": 75.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 3795.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

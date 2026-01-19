@@ -1,0 +1,44 @@
+{
+  "id_commande": "MOB-20251231135622-2119",
+  "canal": "application_mobile",
+  "date_commande": "2025-12-31T13:56:22.269529",
+  "client": {
+    "nom": "Aurore Poulain",
+    "email": "ulaine@example.com",
+    "telephone": "04 92 11 83 04",
+    "compte_client": "C10110"
+  },
+  "appareil": {
+    "type": "Android",
+    "version_app": "3.2.1",
+    "os_version": "17.4"
+  },
+  "adresse_livraison": {
+    "rue": "100, avenue Robert",
+    "ville": "Delmas",
+    "code_postal": "68195",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 1,
+      "prix_unitaire": 80.0,
+      "prix_total": 80.0
+    }
+  ],
+  "montant_total": 200.0,
+  "statut": "confirmée",
+  "mode_paiement": "wallet_app",
+  "option_livraison": "standard",
+  "frais_livraison": 9.99,
+  "notification_push": false,
+  "promo_code": "PROMO341"
+}

@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134529-9873",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:45:29.975206",
+  "client": {
+    "nom": "Arthur Masse",
+    "email": "techerpatrick@example.net",
+    "telephone": "0763680994"
+  },
+  "adresse_livraison": {
+    "rue": "54, rue de Leduc",
+    "ville": "Costenec",
+    "code_postal": "89508",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    }
+  ],
+  "montant_total": 770.0,
+  "statut": "annulée",
+  "mode_paiement": "paypal"
+}

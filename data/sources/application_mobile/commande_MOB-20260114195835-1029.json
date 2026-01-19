@@ -1,0 +1,33 @@
+{
+  "id_commande": "MOB-20260114195835-1029",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T19:58:35.314235",
+  "client": {
+    "nom": "Frédéric Moreau Le Pasquier",
+    "email": "germainsuzanne@example.org",
+    "telephone": "01 49 66 20 17",
+    "compte_client": "C90855"
+  },
+  "appareil": {
+    "type": "iPad",
+    "version_app": "2.8.4",
+    "os_version": "16.3"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Khouribga Centre",
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 3,
+      "prix_unitaire": 450.0,
+      "prix_total": 1350.0
+    }
+  ],
+  "montant_total": 1350.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": false,
+  "promo_code": null
+}

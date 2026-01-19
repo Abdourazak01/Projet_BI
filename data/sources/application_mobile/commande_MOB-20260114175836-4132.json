@@ -1,0 +1,38 @@
+{
+  "id_commande": "MOB-20260114175836-4132",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T17:58:36.997510",
+  "client": {
+    "nom": "Élise Guibert",
+    "email": "aubertcaroline@example.com",
+    "telephone": "+33 4 90 95 38 48",
+    "compte_client": "C19721"
+  },
+  "appareil": {
+    "type": "Android",
+    "version_app": "3.1.5",
+    "os_version": "11.0"
+  },
+  "adresse_livraison": {
+    "rue": "avenue de Bernier",
+    "ville": "Masse",
+    "code_postal": "83172",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    }
+  ],
+  "montant_total": 650.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "point_relais",
+  "frais_livraison": 19.99,
+  "notification_push": false,
+  "promo_code": null
+}

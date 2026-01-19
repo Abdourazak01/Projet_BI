@@ -1,0 +1,29 @@
+{
+  "id_commande": "BOU-20260114200302-2936",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T20:03:02.272793",
+  "client": {
+    "nom": "Isaac Moreau",
+    "email": "jgermain@example.com",
+    "telephone": "+33 4 79 13 78 67"
+  },
+  "boutique": "Marrakech Gueliz",
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 3,
+      "prix_unitaire": 350.0,
+      "prix_total": 1050.0
+    }
+  ],
+  "montant_total": 1750.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V633"
+}

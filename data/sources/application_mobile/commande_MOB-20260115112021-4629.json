@@ -1,0 +1,44 @@
+{
+  "id_commande": "MOB-20260115112021-4629",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:20:21.134390",
+  "client": {
+    "nom": "Jeannine Mary",
+    "email": "pbourdon@example.org",
+    "telephone": "08 00 21 26 20",
+    "compte_client": "C67417"
+  },
+  "appareil": {
+    "type": "Tablette Android",
+    "version_app": "3.2.1",
+    "os_version": "10.6"
+  },
+  "adresse_livraison": {
+    "rue": "96, chemin de Martinez",
+    "ville": "Saint Caroline",
+    "code_postal": "80346",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 3,
+      "prix_unitaire": 80.0,
+      "prix_total": 240.0
+    },
+    {
+      "nom_produit": "Câble USB-C",
+      "quantite": 3,
+      "prix_unitaire": 15.0,
+      "prix_total": 45.0
+    }
+  ],
+  "montant_total": 285.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "express",
+  "frais_livraison": 29.99,
+  "notification_push": true,
+  "promo_code": null
+}

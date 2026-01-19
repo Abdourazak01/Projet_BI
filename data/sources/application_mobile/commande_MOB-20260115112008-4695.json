@@ -1,0 +1,50 @@
+{
+  "id_commande": "MOB-20260115112008-4695",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:20:08.348197",
+  "client": {
+    "nom": "Auguste-Frédéric Turpin",
+    "email": "celina94@example.net",
+    "telephone": "0172862839",
+    "compte_client": "C90539"
+  },
+  "appareil": {
+    "type": "iPhone",
+    "version_app": "3.1.5",
+    "os_version": "11.5"
+  },
+  "adresse_livraison": {
+    "rue": "96, chemin Guillou",
+    "ville": "Lemoine",
+    "code_postal": "28842",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 2,
+      "prix_unitaire": 150.0,
+      "prix_total": 300.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 3,
+      "prix_unitaire": 650.0,
+      "prix_total": 1950.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 1,
+      "prix_unitaire": 1100.0,
+      "prix_total": 1100.0
+    }
+  ],
+  "montant_total": 3350.0,
+  "statut": "confirmée",
+  "mode_paiement": "mobile_paiement",
+  "option_livraison": "standard",
+  "frais_livraison": 0.0,
+  "notification_push": true,
+  "promo_code": null
+}

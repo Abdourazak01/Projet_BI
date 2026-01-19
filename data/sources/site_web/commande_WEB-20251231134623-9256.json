@@ -1,0 +1,39 @@
+{
+  "id_commande": "WEB-20251231134623-9256",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:46:23.149915",
+  "client": {
+    "nom": "Élisabeth Diallo",
+    "email": "jeromecamus@example.net",
+    "telephone": "+33 2 55 21 58 91"
+  },
+  "adresse_livraison": {
+    "rue": "807, chemin Morel",
+    "ville": "Marinnec",
+    "code_postal": "10533",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 1,
+      "prix_unitaire": 1100.0,
+      "prix_total": 1100.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 2,
+      "prix_unitaire": 35.0,
+      "prix_total": 70.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 1,
+      "prix_unitaire": 950.0,
+      "prix_total": 950.0
+    }
+  ],
+  "montant_total": 2120.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

@@ -1,0 +1,41 @@
+{
+  "id_commande": "BOU-20260116195326-1892",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:53:26.604004",
+  "client": {
+    "nom": "Nathalie du Raymond",
+    "email": null,
+    "telephone": "03 79 53 83 72"
+  },
+  "boutique": "Khouribga Mall",
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 1,
+      "prix_unitaire": 450.0,
+      "prix_total": 450.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 2,
+      "prix_unitaire": 450.0,
+      "prix_total": 900.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 1,
+      "prix_unitaire": 80.0,
+      "prix_total": 80.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 2,
+      "prix_unitaire": 40.0,
+      "prix_total": 80.0
+    }
+  ],
+  "montant_total": 1510.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V733"
+}

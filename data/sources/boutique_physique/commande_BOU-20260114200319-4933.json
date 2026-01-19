@@ -1,0 +1,41 @@
+{
+  "id_commande": "BOU-20260114200319-4933",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T20:03:19.852566",
+  "client": {
+    "nom": "Marguerite Godard",
+    "email": "launaysuzanne@example.net",
+    "telephone": "0443882316"
+  },
+  "boutique": "Marrakech Gueliz",
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 2,
+      "prix_unitaire": 35.0,
+      "prix_total": 70.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 2,
+      "prix_unitaire": 120.0,
+      "prix_total": 240.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    }
+  ],
+  "montant_total": 2860.0,
+  "statut": "confirmée",
+  "mode_paiement": "especes",
+  "vendeur_id": "V918"
+}

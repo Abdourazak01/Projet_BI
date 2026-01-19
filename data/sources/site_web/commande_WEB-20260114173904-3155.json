@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114173904-3155",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:04.814485",
+  "client": {
+    "nom": "Guillaume Bruneau",
+    "email": "perezdavid@example.org",
+    "telephone": "0183551172"
+  },
+  "adresse_livraison": {
+    "rue": "92, rue Gosselin",
+    "ville": "Saint Dominiqueboeuf",
+    "code_postal": "65834",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 2,
+      "prix_unitaire": 450.0,
+      "prix_total": 900.0
+    }
+  ],
+  "montant_total": 900.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

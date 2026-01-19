@@ -1,0 +1,39 @@
+{
+  "id_commande": "MOB-20260114174006-2867",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T17:40:06.121022",
+  "client": {
+    "nom": "Émilie Petit",
+    "email": "roland76@example.org",
+    "telephone": "01 60 15 94 38",
+    "compte_client": "C60938"
+  },
+  "appareil": {
+    "type": "Tablette Android",
+    "version_app": "3.0.9",
+    "os_version": "15.0"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Rabat Agdal",
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 1,
+      "prix_unitaire": 1100.0,
+      "prix_total": 1100.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    }
+  ],
+  "montant_total": 2300.0,
+  "statut": "confirmée",
+  "mode_paiement": "mobile_paiement",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": false,
+  "promo_code": "PROMO163"
+}

@@ -1,0 +1,51 @@
+{
+  "id_commande": "MOB-20260114174046-4438",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T17:40:46.464755",
+  "client": {
+    "nom": "Joseph de Hoareau",
+    "email": "mleveque@example.com",
+    "telephone": "+33 (0)3 29 60 93 10",
+    "compte_client": "C67025"
+  },
+  "appareil": {
+    "type": "iPhone",
+    "version_app": "2.8.4",
+    "os_version": "17.1"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Marrakech Gueliz",
+  "produits": [
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 2,
+      "prix_unitaire": 35.0,
+      "prix_total": 70.0
+    }
+  ],
+  "montant_total": 2090.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": false,
+  "promo_code": null
+}

@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134909-7179",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:09.061913",
+  "client": {
+    "nom": "Marie de la Carre",
+    "email": "aubertlaetitia@example.com",
+    "telephone": "+33 3 58 93 29 07"
+  },
+  "adresse_livraison": {
+    "rue": "avenue de Guillot",
+    "ville": "Saint Zacharie",
+    "code_postal": "20534",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 1,
+      "prix_unitaire": 40.0,
+      "prix_total": 40.0
+    }
+  ],
+  "montant_total": 40.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire"
+}

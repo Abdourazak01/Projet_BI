@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134912-6847",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:12.915720",
+  "client": {
+    "nom": "Sabine Gautier",
+    "email": "tristansamson@example.com",
+    "telephone": "0329093825"
+  },
+  "adresse_livraison": {
+    "rue": "975, rue Gimenez",
+    "ville": "Allard",
+    "code_postal": "27674",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 1,
+      "prix_unitaire": 40.0,
+      "prix_total": 40.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    }
+  ],
+  "montant_total": 100.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

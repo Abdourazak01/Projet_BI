@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134403-4698",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:44:03.401642",
+  "client": {
+    "nom": "Édith Guibert",
+    "email": "bourgeoismargot@example.com",
+    "telephone": "+33 1 76 05 04 77"
+  },
+  "adresse_livraison": {
+    "rue": "89, boulevard Rodriguez",
+    "ville": "Faure",
+    "code_postal": "16712",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 1,
+      "prix_unitaire": 950.0,
+      "prix_total": 950.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 1,
+      "prix_unitaire": 650.0,
+      "prix_total": 650.0
+    }
+  ],
+  "montant_total": 1600.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

@@ -1,0 +1,50 @@
+{
+  "id_commande": "MOB-20260115112011-7714",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:20:11.213784",
+  "client": {
+    "nom": "Margot Seguin",
+    "email": "philippinehuet@example.com",
+    "telephone": "+33 (0)2 38 13 96 46",
+    "compte_client": "C21510"
+  },
+  "appareil": {
+    "type": "Tablette Android",
+    "version_app": "3.1.5",
+    "os_version": "14.5"
+  },
+  "adresse_livraison": {
+    "rue": "369, boulevard Célina Brunet",
+    "ville": "Lesage-sur-Mathieu",
+    "code_postal": "09241",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 1,
+      "prix_unitaire": 85.0,
+      "prix_total": 85.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 3,
+      "prix_unitaire": 85.0,
+      "prix_total": 255.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 3,
+      "prix_unitaire": 40.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 460.0,
+  "statut": "confirmée",
+  "mode_paiement": "mobile_paiement",
+  "option_livraison": "standard",
+  "frais_livraison": 29.99,
+  "notification_push": false,
+  "promo_code": "PROMO268"
+}

@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134214-5880",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:42:14.370388",
+  "client": {
+    "nom": "Guy Masson",
+    "email": "ycarre@example.net",
+    "telephone": "+33 5 19 23 11 56"
+  },
+  "adresse_livraison": {
+    "rue": "87, rue Thomas",
+    "ville": "Perez",
+    "code_postal": "63823",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 3,
+      "prix_unitaire": 85.0,
+      "prix_total": 255.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 3,
+      "prix_unitaire": 85.0,
+      "prix_total": 255.0
+    }
+  ],
+  "montant_total": 510.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134450-5056",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:44:50.811841",
+  "client": {
+    "nom": "Diane-Juliette Gomes",
+    "email": "alice83@example.org",
+    "telephone": "+33 4 67 02 27 03"
+  },
+  "adresse_livraison": {
+    "rue": "39, avenue Marchand",
+    "ville": "Françoisboeuf",
+    "code_postal": "97111",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Chargeur sans fil",
+      "quantite": 1,
+      "prix_unitaire": 35.0,
+      "prix_total": 35.0
+    }
+  ],
+  "montant_total": 35.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

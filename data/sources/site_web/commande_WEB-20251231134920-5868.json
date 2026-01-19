@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134920-5868",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:20.135613",
+  "client": {
+    "nom": "Thérèse Poulain du Mahe",
+    "email": "hubertvirginie@example.net",
+    "telephone": "+33 (0)2 62 91 72 40"
+  },
+  "adresse_livraison": {
+    "rue": "80, boulevard Alexandre Guillaume",
+    "ville": "Guibert",
+    "code_postal": "46118",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    }
+  ],
+  "montant_total": 2200.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

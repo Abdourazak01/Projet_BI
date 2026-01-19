@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134915-2449",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:15.818809",
+  "client": {
+    "nom": "Auguste Lacombe",
+    "email": "lreynaud@example.net",
+    "telephone": "+33 1 60 74 37 41"
+  },
+  "adresse_livraison": {
+    "rue": "73, rue Renée Rivière",
+    "ville": "Sainte Geneviève-la-Forêt",
+    "code_postal": "48590",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 2,
+      "prix_unitaire": 80.0,
+      "prix_total": 160.0
+    }
+  ],
+  "montant_total": 4960.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

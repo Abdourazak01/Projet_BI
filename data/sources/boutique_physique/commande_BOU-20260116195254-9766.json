@@ -1,0 +1,23 @@
+{
+  "id_commande": "BOU-20260116195254-9766",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-16T19:52:54.224666",
+  "client": {
+    "nom": "Georges Durand de la Royer",
+    "email": "lefevremarc@example.com",
+    "telephone": null
+  },
+  "boutique": "Khouribga Mall",
+  "produits": [
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 2,
+      "prix_unitaire": 120.0,
+      "prix_total": 240.0
+    }
+  ],
+  "montant_total": 240.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V422"
+}

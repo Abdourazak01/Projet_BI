@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20260114172119-6422",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:19.072520",
+  "client": {
+    "nom": "François Perrier",
+    "email": "thomasemmanuel@example.org",
+    "telephone": "01 49 35 77 38"
+  },
+  "adresse_livraison": {
+    "rue": "400, avenue Marine Dijoux",
+    "ville": "Gosselin-sur-Delorme",
+    "code_postal": "84161",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 3,
+      "prix_unitaire": 450.0,
+      "prix_total": 1350.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 1470.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

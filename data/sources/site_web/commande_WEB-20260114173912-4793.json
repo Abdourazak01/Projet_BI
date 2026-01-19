@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114173912-4793",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:12.166992",
+  "client": {
+    "nom": "Alphonse Jourdan Le Charrier",
+    "email": "theophile23@example.com",
+    "telephone": "0531553440"
+  },
+  "adresse_livraison": {
+    "rue": "88, rue Gilles Julien",
+    "ville": "Sainte CamilleVille",
+    "code_postal": "18382",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    }
+  ],
+  "montant_total": 60.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134907-7330",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:07.830857",
+  "client": {
+    "nom": "Aimé Legrand",
+    "email": "emarques@example.net",
+    "telephone": "+33 1 73 32 45 05"
+  },
+  "adresse_livraison": {
+    "rue": "195, boulevard Traore",
+    "ville": "Bourgeois-les-Bains",
+    "code_postal": "91870",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 2,
+      "prix_unitaire": 150.0,
+      "prix_total": 300.0
+    }
+  ],
+  "montant_total": 300.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

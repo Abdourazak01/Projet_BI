@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134944-2114",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:44.007308",
+  "client": {
+    "nom": "Stéphanie Leroux Le Bègue",
+    "email": "jbousquet@example.org",
+    "telephone": "0237739336"
+  },
+  "adresse_livraison": {
+    "rue": "44, boulevard Guillot",
+    "ville": "Marchal",
+    "code_postal": "38985",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    }
+  ],
+  "montant_total": 2200.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

@@ -1,0 +1,39 @@
+{
+  "id_commande": "MOB-20260115111953-2300",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:19:53.095433",
+  "client": {
+    "nom": "Alix Philippe",
+    "email": "david48@example.com",
+    "telephone": "02 53 48 25 76",
+    "compte_client": "C39805"
+  },
+  "appareil": {
+    "type": "Android",
+    "version_app": "3.2.1",
+    "os_version": "12.1"
+  },
+  "adresse_livraison": null,
+  "boutique_collect": "Casablanca Marina",
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 2,
+      "prix_unitaire": 80.0,
+      "prix_total": 160.0
+    },
+    {
+      "nom_produit": "Webcam Logitech 4K",
+      "quantite": 3,
+      "prix_unitaire": 150.0,
+      "prix_total": 450.0
+    }
+  ],
+  "montant_total": 610.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "click_collect",
+  "frais_livraison": 0.0,
+  "notification_push": true,
+  "promo_code": null
+}

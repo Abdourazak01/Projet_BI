@@ -1,0 +1,50 @@
+{
+  "id_commande": "MOB-20260114174052-6905",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T17:40:52.249163",
+  "client": {
+    "nom": "Arthur Gauthier",
+    "email": "laportemartine@example.com",
+    "telephone": "+33 1 44 63 24 63",
+    "compte_client": "C84166"
+  },
+  "appareil": {
+    "type": "iPhone",
+    "version_app": "3.0.9",
+    "os_version": "17.6"
+  },
+  "adresse_livraison": {
+    "rue": "33, rue François",
+    "ville": "Berger",
+    "code_postal": "85155",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    }
+  ],
+  "montant_total": 760.0,
+  "statut": "annulée",
+  "mode_paiement": "wallet_app",
+  "option_livraison": "standard",
+  "frais_livraison": 0.0,
+  "notification_push": false,
+  "promo_code": null
+}

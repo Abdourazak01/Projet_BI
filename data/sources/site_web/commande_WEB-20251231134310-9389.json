@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134310-9389",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:43:10.686196",
+  "client": {
+    "nom": "Olivier Laporte",
+    "email": "costaveronique@example.com",
+    "telephone": "+33 (0)6 30 59 99 43"
+  },
+  "adresse_livraison": {
+    "rue": "612, rue de Girard",
+    "ville": "Reynaud-les-Bains",
+    "code_postal": "39331",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    },
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 1,
+      "prix_unitaire": 80.0,
+      "prix_total": 80.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    }
+  ],
+  "montant_total": 1750.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

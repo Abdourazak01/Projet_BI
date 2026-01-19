@@ -1,0 +1,35 @@
+{
+  "id_commande": "BOU-20260114195708-8045",
+  "canal": "boutique_physique",
+  "date_commande": "2026-01-14T19:57:08.507566",
+  "client": {
+    "nom": "Roger Gay",
+    "email": "menardjacqueline@example.com",
+    "telephone": "0299188687"
+  },
+  "boutique": "Marrakech Gueliz",
+  "produits": [
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 3,
+      "prix_unitaire": 1100.0,
+      "prix_total": 3300.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 3,
+      "prix_unitaire": 40.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 2,
+      "prix_unitaire": 1100.0,
+      "prix_total": 2200.0
+    }
+  ],
+  "montant_total": 5620.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V784"
+}

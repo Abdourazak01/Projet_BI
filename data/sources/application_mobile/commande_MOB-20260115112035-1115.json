@@ -1,0 +1,56 @@
+{
+  "id_commande": "MOB-20260115112035-1115",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-15T11:20:35.124725",
+  "client": {
+    "nom": "Valérie Rocher de la Monnier",
+    "email": "lebretonalexandria@example.com",
+    "telephone": "+33 (0)3 60 82 73 34",
+    "compte_client": "C75959"
+  },
+  "appareil": {
+    "type": "iPad",
+    "version_app": "3.2.1",
+    "os_version": "10.3"
+  },
+  "adresse_livraison": {
+    "rue": "boulevard de Gay",
+    "ville": "Schneiderdan",
+    "code_postal": "40874",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 1,
+      "prix_unitaire": 950.0,
+      "prix_total": 950.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 1,
+      "prix_unitaire": 60.0,
+      "prix_total": 60.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    },
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 2,
+      "prix_unitaire": 450.0,
+      "prix_total": 900.0
+    }
+  ],
+  "montant_total": 2610.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire",
+  "option_livraison": "express",
+  "frais_livraison": 9.99,
+  "notification_push": false,
+  "promo_code": null
+}

@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134933-5689",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:33.697530",
+  "client": {
+    "nom": "Emmanuelle Le Nicolas",
+    "email": "gilles65@example.com",
+    "telephone": "+33 (0)5 49 34 96 15"
+  },
+  "adresse_livraison": {
+    "rue": "55, boulevard Rémy",
+    "ville": "Pinto",
+    "code_postal": "46572",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 3,
+      "prix_unitaire": 950.0,
+      "prix_total": 2850.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 1,
+      "prix_unitaire": 120.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 2,
+      "prix_unitaire": 650.0,
+      "prix_total": 1300.0
+    },
+    {
+      "nom_produit": "iPhone 15 Pro",
+      "quantite": 3,
+      "prix_unitaire": 1100.0,
+      "prix_total": 3300.0
+    }
+  ],
+  "montant_total": 7570.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20260114172109-5525",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:21:09.452616",
+  "client": {
+    "nom": "Jérôme-Thibaut Jacquet",
+    "email": "suzannejean@example.com",
+    "telephone": "+33 (0)5 79 95 10 21"
+  },
+  "adresse_livraison": {
+    "rue": "91, boulevard de Rolland",
+    "ville": "LaineBourg",
+    "code_postal": "60474",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 2,
+      "prix_unitaire": 80.0,
+      "prix_total": 160.0
+    }
+  ],
+  "montant_total": 160.0,
+  "statut": "confirmée",
+  "mode_paiement": "virement"
+}

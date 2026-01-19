@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20251231134922-6145",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:22.139736",
+  "client": {
+    "nom": "Stéphane Denis",
+    "email": "hgeorges@example.com",
+    "telephone": "+33 (0)3 65 98 34 94"
+  },
+  "adresse_livraison": {
+    "rue": "chemin de Salmon",
+    "ville": "Germain",
+    "code_postal": "83681",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Souris Gaming Razer",
+      "quantite": 3,
+      "prix_unitaire": 80.0,
+      "prix_total": 240.0
+    },
+    {
+      "nom_produit": "Disque dur externe 2TB",
+      "quantite": 1,
+      "prix_unitaire": 85.0,
+      "prix_total": 85.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 3,
+      "prix_unitaire": 40.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 565.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

@@ -1,0 +1,35 @@
+{
+  "id_commande": "BOU-20251231135038-8834",
+  "canal": "boutique_physique",
+  "date_commande": "2025-12-31T13:50:38.195548",
+  "client": {
+    "nom": "Auguste Lejeune-Dufour",
+    "email": "jourdanalphonse@example.net",
+    "telephone": "04 69 64 13 17"
+  },
+  "boutique": "Khouribga Mall",
+  "produits": [
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 1,
+      "prix_unitaire": 40.0,
+      "prix_total": 40.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 1,
+      "prix_unitaire": 1200.0,
+      "prix_total": 1200.0
+    },
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 3,
+      "prix_unitaire": 40.0,
+      "prix_total": 120.0
+    }
+  ],
+  "montant_total": 1360.0,
+  "statut": "annulée",
+  "mode_paiement": "carte_bancaire",
+  "vendeur_id": "V704"
+}

@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134922-2838",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:22.784555",
+  "client": {
+    "nom": "Jérôme Rossi",
+    "email": "margot15@example.net",
+    "telephone": "02 46 58 48 48"
+  },
+  "adresse_livraison": {
+    "rue": "26, rue Delmas",
+    "ville": "Boucher",
+    "code_postal": "49515",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 3,
+      "prix_unitaire": 60.0,
+      "prix_total": 180.0
+    }
+  ],
+  "montant_total": 180.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

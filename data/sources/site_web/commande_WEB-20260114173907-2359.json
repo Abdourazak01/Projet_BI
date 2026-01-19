@@ -1,0 +1,45 @@
+{
+  "id_commande": "WEB-20260114173907-2359",
+  "canal": "site_web",
+  "date_commande": "2026-01-14T17:39:07.446799",
+  "client": {
+    "nom": "Jeanne Mercier",
+    "email": "goncalvespierre@example.com",
+    "telephone": "+33 (0)2 43 30 44 39"
+  },
+  "adresse_livraison": {
+    "rue": "77, rue Sophie Descamps",
+    "ville": "Sainte Bertrandnec",
+    "code_postal": "27886",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Support laptop",
+      "quantite": 1,
+      "prix_unitaire": 40.0,
+      "prix_total": 40.0
+    },
+    {
+      "nom_produit": "Sac à dos ordinateur",
+      "quantite": 2,
+      "prix_unitaire": 60.0,
+      "prix_total": 120.0
+    },
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 1,
+      "prix_unitaire": 350.0,
+      "prix_total": 350.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 2,
+      "prix_unitaire": 950.0,
+      "prix_total": 1900.0
+    }
+  ],
+  "montant_total": 2410.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

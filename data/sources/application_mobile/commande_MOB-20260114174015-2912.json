@@ -1,0 +1,56 @@
+{
+  "id_commande": "MOB-20260114174015-2912",
+  "canal": "application_mobile",
+  "date_commande": "2026-01-14T17:40:15.192419",
+  "client": {
+    "nom": "Madeleine-Cécile Mathieu",
+    "email": "nathalie00@example.org",
+    "telephone": "02 47 08 91 35",
+    "compte_client": "C81558"
+  },
+  "appareil": {
+    "type": "Tablette Android",
+    "version_app": "3.0.9",
+    "os_version": "13.4"
+  },
+  "adresse_livraison": {
+    "rue": "58, boulevard Emmanuelle Blanchard",
+    "ville": "Léger",
+    "code_postal": "82188",
+    "pays": "Maroc"
+  },
+  "boutique_collect": null,
+  "produits": [
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 3,
+      "prix_unitaire": 650.0,
+      "prix_total": 1950.0
+    },
+    {
+      "nom_produit": "Clavier Mécanique Logitech",
+      "quantite": 2,
+      "prix_unitaire": 120.0,
+      "prix_total": 240.0
+    },
+    {
+      "nom_produit": "Laptop Dell XPS",
+      "quantite": 2,
+      "prix_unitaire": 1200.0,
+      "prix_total": 2400.0
+    },
+    {
+      "nom_produit": "iPad Air",
+      "quantite": 3,
+      "prix_unitaire": 650.0,
+      "prix_total": 1950.0
+    }
+  ],
+  "montant_total": 6540.0,
+  "statut": "confirmée",
+  "mode_paiement": "wallet_app",
+  "option_livraison": "point_relais",
+  "frais_livraison": 29.99,
+  "notification_push": true,
+  "promo_code": null
+}

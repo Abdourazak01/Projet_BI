@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134655-7580",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:46:55.583943",
+  "client": {
+    "nom": "Gilles Costa",
+    "email": "brunetsylvie@example.net",
+    "telephone": "02 46 74 11 58"
+  },
+  "adresse_livraison": {
+    "rue": "rue Adrienne Giraud",
+    "ville": "Guillou",
+    "code_postal": "44604",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Montre Apple Watch Series 9",
+      "quantite": 1,
+      "prix_unitaire": 450.0,
+      "prix_total": 450.0
+    }
+  ],
+  "montant_total": 450.0,
+  "statut": "confirmée",
+  "mode_paiement": "paypal"
+}

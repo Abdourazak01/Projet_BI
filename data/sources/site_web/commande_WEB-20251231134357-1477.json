@@ -1,0 +1,33 @@
+{
+  "id_commande": "WEB-20251231134357-1477",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:43:57.411483",
+  "client": {
+    "nom": "Roland Foucher",
+    "email": "patrick12@example.net",
+    "telephone": "01 72 44 84 23"
+  },
+  "adresse_livraison": {
+    "rue": "6, rue Céline Joubert",
+    "ville": "Sainte Laurent-la-Forêt",
+    "code_postal": "88968",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 2,
+      "prix_unitaire": 950.0,
+      "prix_total": 1900.0
+    },
+    {
+      "nom_produit": "Samsung Galaxy S24",
+      "quantite": 1,
+      "prix_unitaire": 950.0,
+      "prix_total": 950.0
+    }
+  ],
+  "montant_total": 2850.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}

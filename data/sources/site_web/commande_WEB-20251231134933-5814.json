@@ -1,0 +1,27 @@
+{
+  "id_commande": "WEB-20251231134933-5814",
+  "canal": "site_web",
+  "date_commande": "2025-12-31T13:49:33.519707",
+  "client": {
+    "nom": "Georges du Monnier",
+    "email": "rousseaumarine@example.com",
+    "telephone": "+33 5 94 98 97 41"
+  },
+  "adresse_livraison": {
+    "rue": "92, rue Diaz",
+    "ville": "Dupont",
+    "code_postal": "91555",
+    "pays": "Maroc"
+  },
+  "produits": [
+    {
+      "nom_produit": "Écouteurs Sony WH-1000XM5",
+      "quantite": 2,
+      "prix_unitaire": 350.0,
+      "prix_total": 700.0
+    }
+  ],
+  "montant_total": 700.0,
+  "statut": "confirmée",
+  "mode_paiement": "carte_bancaire"
+}
